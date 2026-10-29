@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b1020">
+  <meta name="description" content="A daily, source-linked briefing on global AI and technology news.">
+  <meta property="og:title" content="AI & Tech Briefing">
+  <meta property="og:description" content="Your daily, source-linked AI and technology news archive.">
+  <meta property="og:type" content="website">
+  <title>AI & Tech Briefing</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <div class="ambient ambient-one"></div><div class="ambient ambient-two"></div>
+  <header class="topbar">
+    <a class="brand" href="./" aria-label="AI Tech Briefing home"><span class="brand-mark">AI</span><span>Signal<span class="brand-light"> / Daily</span></span></a>
+    <a class="github-link" href="https://github.com/aniketsinha05/ai-tech-briefing" target="_blank" rel="noopener noreferrer">Repository <span aria-hidden="true">↗</span></a>
+  </header>
+  <main class="layout">
+    <section class="hero">
+      <div class="eyebrow"><span class="live-dot"></span> THE DAILY INTELLIGENCE BRIEF</div>
+      <h1>Stay ahead of<br><span>what’s next.</span></h1>
+      <p class="hero-copy">A clear, curated view of the AI and technology developments that matter — with original sources one click away.</p>
+      <div class="hero-meta"><span class="meta-icon">◷</span> Previous-calendar-day coverage <span class="meta-divider">·</span> India Standard Time</div>
+    </section>
+    <section class="archive-panel" aria-label="Briefing archive">
+      <div class="archive-head">
+        <div><div class="section-kicker">YOUR ARCHIVE</div><h2>Daily briefings</h2></div>
+        <span id="count" class="count-pill">Loading…</span>
+      </div>
+      <div class="controls">
+        <label class="date-control"><span>Choose a date</span><select id="date-select" aria-label="Choose a briefing date"><option value="">Loading dates…</option></select></label>
+        <label class="search-control"><span>Search the archive</span><input id="search" type="search" placeholder="Try “cybersecurity” or “models”…" autocomplete="off"></label>
+      </div>
+      <div id="status" class="status" role="status">Loading briefings…</div>
+      <section id="briefing" aria-live="polite"></section>
+      <div id="empty" class="empty-state" hidden><span class="empty-icon">⌕</span><h3>No matching stories</h3><p>Try another date or a different search term.</p></div>
+    </section>
+    <footer><span>Signal / Daily</span><span>Built from dated text briefings · <a href="https://github.com/aniketsinha05/ai-tech-briefing" target="_blank" rel="noopener noreferrer">Open source archive ↗</a></span></footer>
+  </main>
+</body>
+</html>
