@@ -35,8 +35,8 @@ function render() {
   emptyNode.hidden = stories.length > 0 || !query;
   const note = chosen.note ? `<div class="briefing-note"><strong>Editor's note</strong><span>${escapeHtml(chosen.note)}</span></div>` : "";
   const sections = [
-    { key: "INDIA", title: "India: AI & Tech", description: "AI, policy, startups and technology across India." },
-    { key: "GLOBAL", title: "Global AI & Technology", description: "Major international launches, research, companies and policy." },
+    { key: "INDIA", title: "India News", description: "AI, policy, startups and technology across India." },
+    { key: "GLOBAL", title: "Global News", description: "Major international launches, research, companies and policy." },
     { key: "BRIEFING", title: "More developments", description: "" }
   ];
   const sectionMarkup = sections.map(section => {
