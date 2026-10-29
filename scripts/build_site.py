@@ -18,8 +18,17 @@ BRIEFINGS = ROOT / "ai-tech-briefing"
 SITE = ROOT / "site"
 DIST = ROOT / "dist"
 URL_RE = re.compile(r"https?://[^\s<>\"')]+")
-ITEM_RE = re.compile(r"(?m)^\s*(\d+)\.\s+(.+?)\s*$")
+ITEM_RE = re.compile(r"(?m)^[ \t]*(\d+)[.)][ \t]+(.+?)[ \t]*$")
 DATE_RE = re.compile(r"(\d{4})/(\d{2})/(\d{4}-\d{2}-\d{2})\.txt$")
+SEPARATOR_RE = re.compile(r"(?m)^[ \t]*[=\-_*]{5,}[ \t]*$")
+
+# Any ALL-CAPS line of 2+ words is a possible section heading...
+HEADING_RE = re.compile(r"(?m)^[ \t]*([A-Z][A-Z0-9 &:,'’/\-]{2,}?)[ \t]*$")
+# ...unless it is one of these structural lines.
+RESERVED_RE = re.compile(
+    r"(?i)(EDITOR['’]?S NOTE|WHAT TO WATCH(?: NEXT)?:?|SOURCES\s*&\s*VERIFICATION NOTE|.*\bBRIEFING\.?)"
+)
+WATCH_RE = re.compile(r"(?im)^[ \t]*WHAT TO WATCH(?: NEXT)?:?[ \t]*$")
 
 
 class MetaParser(HTMLParser):
@@ -91,6 +100,23 @@ def get_preview(url: str) -> dict:
     return fallback
 
 
+def cached_preview(url: str, cache: dict) -> dict:
+    if url not in cache:
+        cache[url] = get_preview(url)
+        time.sleep(0.04)
+    return cache[url]
+
+
+def find_urls(text: str) -> list[str]:
+    seen, urls = set(), []
+    for raw in URL_RE.findall(text):
+        url = raw.rstrip(".,;:")
+        if url not in seen:
+            seen.add(url)
+            urls.append(url)
+    return urls
+
+
 def extract_date(path: Path) -> str:
     match = DATE_RE.search(path.as_posix())
     if match:
@@ -99,31 +125,58 @@ def extract_date(path: Path) -> str:
     return match.group(1) if match else path.stem
 
 
+def section_headings(text: str):
+    """Return [(match, label)] for lines that look like section headings."""
+    found = []
+    for match in HEADING_RE.finditer(text):
+        label = match.group(1).strip()
+        if len(label.split()) < 2 or not re.search(r"[A-Z]{2}", label):
+            continue
+        if RESERVED_RE.fullmatch(label):
+            continue
+        found.append((match, label))
+    return found
+
+
+def strip_headings(text: str) -> str:
+    for match, _ in reversed(section_headings(text)):
+        text = text[:match.start()] + text[match.end():]
+    return text
+
+
+def section_info(label: str) -> tuple[str, str]:
+    upper = label.upper()
+    if upper.startswith("INDIA"):
+        return "india", "India News"
+    if upper.startswith(("GLOBAL", "WORLD", "INTERNATIONAL")):
+        return "global", "Global News"
+    key = re.sub(r"[^a-z0-9]+", "-", label.lower()).strip("-") or "section"
+    title = re.sub(r"\bAi\b", "AI", label.title())
+    return key, title
+
+
 def parse_briefing(path: Path, preview_cache: dict) -> dict:
     text = path.read_text(encoding="utf-8", errors="replace")
     date = extract_date(path.relative_to(ROOT))
     coverage = re.search(r"(?im)^Coverage date:\s*(.+)$", text)
     prepared = re.search(r"(?im)^Prepared:\s*(.+)$", text)
-    watch_match = re.search(r"(?im)^\s*WHAT TO WATCH\s*$", text)
+    watch_match = WATCH_RE.search(text)
     before_watch = text[:watch_match.start()] if watch_match else text
     items = []
     matches = list(ITEM_RE.finditer(before_watch))
-    current_section = "BRIEFING"
-    section_pattern = re.compile(r"(?im)^\s*(INDIA\s*:\s*AI\s*&\s*TECH(?:NOLOGY)?|GLOBAL\s+AI\s*(?:&|AND)\s*TECH(?:NOLOGY)?|GLOBAL\s+AI\s*&\s*TECHNOLOGY)\s*$")
+    current_key, current_title = "briefing", "More developments"
     for index, match in enumerate(matches):
         prefix_start = matches[index - 1].end() if index else 0
         prefix = before_watch[prefix_start:match.start()]
-        detected = list(section_pattern.finditer(prefix))
+        detected = section_headings(prefix)
         if detected:
-            label = detected[-1].group(1).upper()
-            current_section = "INDIA" if label.startswith("INDIA") else "GLOBAL"
+            current_key, current_title = section_info(detected[-1][1])
         block_end = matches[index + 1].start() if index + 1 < len(matches) else len(before_watch)
         block = before_watch[match.end():block_end]
-        urls = URL_RE.findall(block)
+        urls = find_urls(block)
         clean = URL_RE.sub("", block)
-        # Remove ===== separator lines and section headings that leak into the previous story
-        clean = re.sub(r"(?m)^[ \t]*[=\-_*]{5,}[ \t]*$", "", clean)
-        clean = section_pattern.sub("", clean)
+        clean = SEPARATOR_RE.sub("", clean)
+        clean = strip_headings(clean)
         clean = re.sub(r"(?im)^\s*(?:Source|Sources|Related research update):\s*$", "", clean)
         paragraphs = [
             re.sub(r"\s+", " ", paragraph).strip()
@@ -135,19 +188,15 @@ def parse_briefing(path: Path, preview_cache: dict) -> dict:
             if not re.match(r"(?i)^(?:Source|Sources|Related research update):", paragraph)
             and not re.fullmatch(r"[=\-_*]{5,}", paragraph.strip())
         )
-        previews = []
-        for url in urls:
-            if url not in preview_cache:
-                preview_cache[url] = get_preview(url)
-                time.sleep(0.04)
-            previews.append(preview_cache[url])
         items.append({
             "number": int(match.group(1)),
-            "section": current_section,
+            "section": current_key,
+            "section_title": current_title,
             "title": match.group(2).strip(),
             "summary": summary,
-            "sources": previews,
+            "sources": [cached_preview(url, preview_cache) for url in urls],
         })
+
     what_to_watch = []
     if watch_match:
         tail = text[watch_match.end():]
@@ -159,20 +208,13 @@ def parse_briefing(path: Path, preview_cache: dict) -> dict:
                 value = re.sub(r"^[-*•]\s+", "", stripped).strip()
                 if value and not re.fullmatch(r"[=\-_*]{5,}", value):
                     what_to_watch.append({"text": value, "sources": []})
-            elif URL_RE.search(stripped) and what_to_watch:
-                for url in URL_RE.findall(stripped):
-                    if url not in preview_cache:
-                        preview_cache[url] = get_preview(url)
-                    what_to_watch[-1]["sources"].append(preview_cache[url])
-            elif re.match(r"(?i)^source(?:s)?:", stripped) and what_to_watch:
-                for url in URL_RE.findall(stripped):
-                    if url not in preview_cache:
-                        preview_cache[url] = get_preview(url)
-                    what_to_watch[-1]["sources"].append(preview_cache[url])
+            elif what_to_watch and URL_RE.search(stripped):
+                for url in find_urls(stripped):
+                    what_to_watch[-1]["sources"].append(cached_preview(url, preview_cache))
 
     # Editor's note (falls back to an old-style "Note:" line)
     editor = re.search(
-        r"(?ims)^[ \t]*EDITOR['’]?S NOTE[ \t]*\n(.*?)(?=^[ \t]*[=\-_*]{5,}[ \t]*$|\Z)",
+        r"(?ims)^[ \t]*EDITOR['’]?S NOTE[ \t]*\n(.*?)(?=^[ \t]*[=\-_*]{5,}[ \t]*$|^[ \t]*[A-Z][A-Z0-9 &:,'’/\-]{2,}[ \t]*$|^[ \t]*\d+[.)][ \t]|\Z)",
         text,
     )
     editor_note = re.sub(r"\s+", " ", editor.group(1)).strip() if editor else next(
@@ -180,7 +222,10 @@ def parse_briefing(path: Path, preview_cache: dict) -> dict:
         "",
     )
 
-    note_match = re.search(r"(?ims)^SOURCES\s*&\s*VERIFICATION NOTE\s*\n(.*?)(?:^\s*END OF BRIEFING\.?\s*$|\Z)", text)
+    note_match = re.search(
+        r"(?ims)^[ \t]*SOURCES\s*&\s*VERIFICATION NOTE[ \t]*\n(.*?)(?:^\s*END OF BRIEFING\.?\s*$|\Z)",
+        text,
+    )
     verification_note = ""
     if note_match:
         verification_note = re.sub(r"\s+", " ", note_match.group(1)).strip()
