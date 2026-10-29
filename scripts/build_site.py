@@ -101,18 +101,16 @@ def parse_briefing(path: Path, preview_cache: dict) -> dict:
     items = []
     matches = list(ITEM_RE.finditer(before_watch))
     current_section = "BRIEFING"
-    section_pattern = re.compile(r"(?im)^\s*(INDIA\s*:\s*AI\s*&\s*TECH|GLOBAL\s+AI\s*(?:&|AND)\s*TECH(?:NOLOGY)?|GLOBAL\s+AI\s*&\s*TECHNOLOGY)\s*$")
-    section_matches = list(section_pattern.finditer(before_watch))
+    section_pattern = re.compile(r"(?im)^\s*(INDIA\s*:\s*AI\s*&\s*TECH(?:NOLOGY)?|GLOBAL\s+AI\s*(?:&|AND)\s*TECH(?:NOLOGY)?|GLOBAL\s+AI\s*&\s*TECHNOLOGY)\s*$")
     for index, match in enumerate(matches):
-        previous_text_start = matches[index - 1].end() if index else 0
-        prefix = before_watch[previous_text_start:match.start()]
+        prefix_start = matches[index - 1].end() if index else 0
+        prefix = before_watch[prefix_start:match.start()]
         detected = list(section_pattern.finditer(prefix))
         if detected:
             label = detected[-1].group(1).upper()
             current_section = "INDIA" if label.startswith("INDIA") else "GLOBAL"
-        start_block = match.end()
-        end_block = matches[index + 1].start() if index + 1 < len(matches) else len(before_watch)
-        block = before_watch[start_block:end_block]
+        block_end = matches[index + 1].start() if index + 1 < len(matches) else len(before_watch)
+        block = before_watch[match.end():block_end]
         urls = URL_RE.findall(block)
         clean = URL_RE.sub("", block)
         clean = re.sub(r"(?im)^\s*(?:Source|Sources|Related research update):\s*$", "", clean)
@@ -141,19 +139,30 @@ def parse_briefing(path: Path, preview_cache: dict) -> dict:
         })
     what_to_watch = []
     if watch_match:
-        watch_end = re.search(r"(?im)^\s*(?:SOURCES\s*&\s*VERIFICATION NOTE|END OF BRIEFING|END OF BRIEFING\.)\s*$", text[watch_match.end():])
-        watch_text = text[watch_match.end():watch_match.end() + watch_end.start()] if watch_end else text[watch_match.end():]
+        tail = text[watch_match.end():]
+        watch_end = re.search(r"(?im)^\s*(?:SOURCES\s*&\s*VERIFICATION NOTE|END OF BRIEFING\.?)\s*$", tail)
+        watch_text = tail[:watch_end.start()] if watch_end else tail
         for line in watch_text.splitlines():
             stripped = line.strip()
             if re.match(r"^[-*•]\s+", stripped):
                 value = re.sub(r"^[-*•]\s+", "", stripped).strip()
                 if value and not re.fullmatch(r"[=\-_*]{5,}", value):
-                    what_to_watch.append(value)
+                    what_to_watch.append({"text": value, "sources": []})
+            elif URL_RE.search(stripped) and what_to_watch:
+                for url in URL_RE.findall(stripped):
+                    if url not in preview_cache:
+                        preview_cache[url] = get_preview(url)
+                    what_to_watch[-1]["sources"].append(preview_cache[url])
+            elif re.match(r"(?i)^source(?:s)?:", stripped) and what_to_watch:
+                for url in URL_RE.findall(stripped):
+                    if url not in preview_cache:
+                        preview_cache[url] = get_preview(url)
+                    what_to_watch[-1]["sources"].append(preview_cache[url])
     note_match = re.search(r"(?ims)^SOURCES\s*&\s*VERIFICATION NOTE\s*\n(.*?)(?:^\s*END OF BRIEFING\.?\s*$|\Z)", text)
     verification_note = ""
     if note_match:
         verification_note = re.sub(r"\s+", " ", note_match.group(1)).strip()
-        verification_note = re.sub(r"^[=\-_*\s]+|[=\-_*\s]+$", "", verification_note)
+        verification_note = re.sub(r"^[=\-_* \t]+|[=\-_* \t]+$", "", verification_note)
     return {
         "date": date,
         "coverage": coverage.group(1).strip() if coverage else date,
