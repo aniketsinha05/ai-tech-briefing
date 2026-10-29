@@ -80,6 +80,14 @@ def get_preview(url: str) -> dict:
         fallback["description"] = html.unescape(description)[:260]
     except (HTTPError, URLError, TimeoutError, ValueError, OSError):
         pass
+    # If the site blocked the preview, build a readable title from the URL slug.
+    if fallback["title"] == host:
+        parts = [p for p in urlparse(url).path.split("/") if p.count("-") >= 3]
+        if parts:
+            slug = re.sub(r"[-_]?\d{4}-\d{2}-\d{2}$", "", max(parts, key=len))
+            slug = re.sub(r"\.(html?|cms)$", "", slug).replace("-", " ").strip()
+            if slug:
+                fallback["title"] = slug[:1].upper() + slug[1:]
     return fallback
 
 
@@ -113,6 +121,9 @@ def parse_briefing(path: Path, preview_cache: dict) -> dict:
         block = before_watch[match.end():block_end]
         urls = URL_RE.findall(block)
         clean = URL_RE.sub("", block)
+        # Remove ===== separator lines and section headings that leak into the previous story
+        clean = re.sub(r"(?m)^[ \t]*[=\-_*]{5,}[ \t]*$", "", clean)
+        clean = section_pattern.sub("", clean)
         clean = re.sub(r"(?im)^\s*(?:Source|Sources|Related research update):\s*$", "", clean)
         paragraphs = [
             re.sub(r"\s+", " ", paragraph).strip()
@@ -158,6 +169,17 @@ def parse_briefing(path: Path, preview_cache: dict) -> dict:
                     if url not in preview_cache:
                         preview_cache[url] = get_preview(url)
                     what_to_watch[-1]["sources"].append(preview_cache[url])
+
+    # Editor's note (falls back to an old-style "Note:" line)
+    editor = re.search(
+        r"(?ims)^[ \t]*EDITOR['’]?S NOTE[ \t]*\n(.*?)(?=^[ \t]*[=\-_*]{5,}[ \t]*$|\Z)",
+        text,
+    )
+    editor_note = re.sub(r"\s+", " ", editor.group(1)).strip() if editor else next(
+        (line.strip()[5:].strip() for line in text.splitlines() if line.strip().lower().startswith("note:")),
+        "",
+    )
+
     note_match = re.search(r"(?ims)^SOURCES\s*&\s*VERIFICATION NOTE\s*\n(.*?)(?:^\s*END OF BRIEFING\.?\s*$|\Z)", text)
     verification_note = ""
     if note_match:
@@ -168,10 +190,7 @@ def parse_briefing(path: Path, preview_cache: dict) -> dict:
         "coverage": coverage.group(1).strip() if coverage else date,
         "prepared": prepared.group(1).strip() if prepared else "",
         "title": "AI & Tech Daily Briefing",
-        "note": next(
-            (line.strip()[5:].strip() for line in text.splitlines() if line.strip().lower().startswith("note:")),
-            "",
-        ),
+        "note": editor_note,
         "items": items,
         "what_to_watch": what_to_watch,
         "verification_note": verification_note,

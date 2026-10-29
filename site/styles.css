@@ -79,3 +79,23 @@ footer a:hover{color:var(--cyan)}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{transition:none!important}}
 
 .watch-sources{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));gap:8px;margin-top:10px}.watch-sources .source-card{padding:10px 12px}.watch-panel li{padding-left:2px}.watch-panel li+li{margin-top:12px}
+
+/* ---- readability upgrade ---- */
+.hero,.archive-panel,footer{max-width:960px;margin-left:auto;margin-right:auto}
+.briefing-note{font-size:16px;border-left:3px solid var(--cyan)}
+.news-section-head h4{font-size:clamp(23px,2.8vw,30px)}
+.story{padding:26px 28px;border-radius:18px;background:linear-gradient(160deg,rgba(17,26,45,.85),rgba(8,14,26,.7))}
+.story h4{font-size:clamp(18px,2.2vw,21px);line-height:1.4;font-weight:750;margin-bottom:12px}
+.story p.lead{font-size:17px;line-height:1.75;color:#e6ecf8;font-weight:500;margin:0 0 10px}
+.story p.detail{font-size:15.5px;line-height:1.85;color:#bcc8dc;margin:0 0 6px}
+.takeaway{margin-top:14px;padding:13px 16px;border-left:3px solid var(--violet);background:#b9a8ff10;border-radius:0 12px 12px 0;color:#d3dbec;font-size:15px;line-height:1.75}
+.takeaway span{display:block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--violet);margin-bottom:3px}
+.source-description{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.section-nav{position:sticky;top:0;z-index:5;display:flex;gap:8px;overflow-x:auto;padding:12px 0;margin-bottom:6px;background:rgba(14,21,38,.92);backdrop-filter:blur(10px)}
+.section-nav a{flex:none;display:flex;gap:8px;align-items:center;text-decoration:none;font-size:13px;font-weight:650;color:#d7e0f0;border:1px solid var(--line);border-radius:999px;padding:7px 14px}
+.section-nav a b{font-size:11px;color:var(--cyan);background:#8de4ef15;border-radius:999px;padding:1px 7px}
+.section-nav a:hover{border-color:var(--cyan);color:var(--cyan)}
+.news-section,.watch-panel{scroll-margin-top:70px}
+.watch-panel ul{list-style:none;padding:0;display:grid;gap:12px}
+.watch-panel li,.watch-panel li+li{margin:0;padding:14px 16px;border:1px solid var(--line);border-radius:12px;background:#0b1221aa;line-height:1.75}
+.watch-label{display:block;color:var(--violet);font-size:12px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:3px}
