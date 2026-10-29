@@ -50,7 +50,11 @@ function render() {
     </article>`).join("");
     return `<section class="news-section"><div class="news-section-head"><div><h4>${section.title}</h4>${section.description ? `<p>${section.description}</p>` : ""}</div><span class="section-count">${sectionStories.length} stories</span></div><div class="story-list">${cards}</div></section>`;
   }).join("");
-  const watch = chosen.what_to_watch?.length ? `<aside class="watch-panel"><h4><span aria-hidden="true">◈</span> What to watch next</h4><ul>${chosen.what_to_watch.map(item => `<li>${escapeHtml(item)}</li>`).join("")}</ul></aside>` : "";
+  const watch = chosen.what_to_watch?.length ? `<aside class="watch-panel"><h4><span aria-hidden="true">◈</span> What to watch next</h4><ul>${chosen.what_to_watch.map(item => {
+    const text = typeof item === "string" ? item : item.text;
+    const sources = typeof item === "string" ? [] : (item.sources || []);
+    return `<li><span>${escapeHtml(text)}</span>${sources.length ? `<div class="watch-sources">${sources.map(sourceCard).join("")}</div>` : ""}</li>`;
+  }).join("")}</ul></aside>` : "";
   const verification = chosen.verification_note ? `<aside class="verification-panel"><h4>Sources & verification note</h4><p>${escapeHtml(chosen.verification_note)}</p></aside>` : "";
   briefingRoot.innerHTML = `<div class="briefing-header"><div><div class="briefing-date">COVERAGE DATE · IST</div><h3>${escapeHtml(chosen.coverage || formatDate(chosen.date))}</h3><div class="prepared">${chosen.prepared ? "Prepared " + escapeHtml(chosen.prepared) : "Daily AI & technology digest"}</div></div></div>${note}${sectionMarkup}${watch}${verification}`;
 }
