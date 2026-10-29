@@ -164,13 +164,16 @@ def parse_briefing(path: Path, preview_cache: dict) -> dict:
     before_watch = text[:watch_match.start()] if watch_match else text
     items = []
     matches = list(ITEM_RE.finditer(before_watch))
+    # Track headings across the entire briefing, rather than searching only the
+    # text between consecutive numbered headlines. This makes section assignment
+    # reliable when a section heading follows the previous story's source block.
+    headings = section_headings(before_watch)
+    heading_index = 0
     current_key, current_title = "briefing", "More developments"
     for index, match in enumerate(matches):
-        prefix_start = matches[index - 1].end() if index else 0
-        prefix = before_watch[prefix_start:match.start()]
-        detected = section_headings(prefix)
-        if detected:
-            current_key, current_title = section_info(detected[-1][1])
+        while heading_index < len(headings) and headings[heading_index][0].start() < match.start():
+            current_key, current_title = section_info(headings[heading_index][1])
+            heading_index += 1
         block_end = matches[index + 1].start() if index + 1 < len(matches) else len(before_watch)
         block = before_watch[match.end():block_end]
         urls = find_urls(block)
