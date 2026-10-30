@@ -1,0 +1,95 @@
+AI & TECH DAILY BRIEFING
+Coverage date: Thursday, 29 October 2026 (India Standard Time)
+Prepared: Friday, 30 October 2026
+
+EDITOR'S NOTE
+The day’s strongest India stories centred on telecom research priorities, physical AI and robotics discussions at ESTIC 2026, and new activity across cybersecurity and deep-tech startups. Globally, open-weight AI, sovereign compute, AI security and regulation remained prominent. Coverage is based on the date a development was announced or took place, not merely when a roundup repeated it; items launched on 28 October are therefore not presented as 29 October announcements. Company performance figures and product benchmarks are attributed to the organisations reporting them.
+
+INDIA: AI & TECH
+
+1. DoT outlines AI-native 6G and quantum-secure network priorities
+At the Emerging Science, Technology and Innovation Conclave (ESTIC) in New Delhi, the Department of Telecommunications outlined priorities spanning AI-native 6G networks, quantum-safe communications, zero-trust security and indigenous telecom technology. Officials cited support for more than 130 projects through the Telecommunications Technology Development Fund, while the vision document called for a national quantum-secure backbone and stronger links between research, testbeds and commercial deployment. The priorities point to a longer-term shift from adding AI to existing networks toward designing future network operations around automation and security from the outset.
+Source: https://www.cxodigitalpulse.com/dot-sets-out-ai-native-6g-and-quantum-secure-network-priorities/
+
+2. DST puts physical AI and robotics in focus at ESTIC 2026
+A Department of Science and Technology session at ESTIC 2026 examined how autonomous systems, physical AI and robotics could change scientific research and technology development. DST Secretary Umesh V. Waghmare emphasised collaboration among industry, academia, researchers, startups and technology users to turn research into practical solutions. The discussion reflects growing policy attention to AI systems that interact with the physical world, where sensing, control, reliability and safety matter alongside model capability.
+Source: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2329907&lang=1&reg=3
+
+3. CloudSEK launches a cybersecurity startup incubator and AI security gateway
+Bengaluru-based CloudSEK introduced Launchpad, a 12-week programme for early-stage cybersecurity startups, with a first cohort planned for 10 companies and up to $5,000 in AI model credits per participant. Alongside the programme, the company introduced KeyVigil, a gateway intended to centralise model access, mask sensitive data and detect prompt-injection or jailbreak attempts across applications and AI agents. These are company-described capabilities; the practical test will be how well the gateway performs against real attacks and how quickly participating startups reach customers.
+Sources:
+https://yourstory.com/2026/10/cloudsek-launches-incubation-programme-for-cybersecurity-startups
+https://www.cloudsek.com/launchpad
+
+4. IIT Kharagpur and Tripura plan an AI-enabled research and learning centre
+IIT Kharagpur and the Tripura government signed a Letter of Intent to establish a Centre for Advanced Learning, Research and Innovation. The proposed centre is intended to support AI-enabled education, faculty development, emerging-technology research, startup incubation and employment opportunities, with IIT Kharagpur providing academic guidance and technical mentorship. The initiative could help connect state colleges with research and innovation resources, although its impact will depend on implementation, staffing and sustained industry participation.
+Source: https://news.careers360.com/iit-kharagpur-tripura-government-partner-centre-advanced-learning-research-innovation-boost-higher-education-jobs
+
+5. Venttup raises $3 million to expand precision manufacturing and AI-led sourcing
+Bengaluru- and Kochi-based manufacturing startup Venttup raised $3 million in a Pre-Series A round co-led by Rainmatter and Unicorn India Ventures. The company said it will expand its engineering team, establish a precision-manufacturing facility in Bengaluru and use AI tools to improve business-to-business sourcing and supplier intelligence. Venttup operates a manufacturing-as-a-service model connecting companies with verified MSME suppliers, targeting sectors including defence, aerospace, energy transition and data centres.
+Source: https://techobserver.in/news/startups/venttup-raises-3-million-precision-manufacturing-defence-aerospace-330221/
+
+6. Coratia Technologies raises ₹18 crore for underwater robotics
+Underwater robotics startup Coratia Technologies raised ₹18 crore in a bridge round led by MGF Kavachh, according to YourStory’s 29 October startup roundup. The company plans to use the capital for research and development, manufacturing expansion and execution of a reported ₹66 crore Indian Navy contract under the iDEX initiative. Its remotely operated underwater systems are designed for defence as well as inspection work around ports, dams, bridges and offshore infrastructure; contract and technology-readiness claims should be understood as company-reported.
+Source: https://yourstory.com/2026/10/startup-news-and-updates-daily-roundup-october-29-2026
+
+7. Viridian Ingni Propulsion secures pre-seed funding for electric propulsion systems
+Chennai-based Viridian Ingni Propulsion raised ₹1.47 crore in a pre-seed round led by Inflection Point Ventures and has also secured ₹53.75 lakh in grants, YourStory reported on 29 October. The startup develops electric propulsion systems that integrate motors, controllers and firmware, and plans to move from validated prototypes toward pilot production. The funding is an early-stage signal for India’s domestic propulsion ecosystem, but commercial scale will depend on manufacturing readiness, certification and customer adoption.
+Source: https://yourstory.com/2026/10/startup-news-and-updates-daily-roundup-october-29-2026
+
+GLOBAL AI & TECHNOLOGY
+
+8. Mistral releases the open weights for its Large 4 model
+French AI company Mistral publicly released the weights for Mistral Large 4, a multimodal model it says has improved in coding, reasoning efficiency and defensive cybersecurity since its earlier preview. The open-weight release allows organisations to download, customise and run the model on their own infrastructure rather than relying only on a hosted API. Mistral’s published benchmark results are company-reported, and the release also highlights the trade-off inherent in open models: greater deployment control for defenders, but wider access to capabilities that may be dual-use.
+Sources:
+https://mistral.ai/news/mistral-large-4-oss/
+https://www.reuters.com/legal/litigation/mistral-ai-publicly-releases-large-4-targets-cybersecurity-users-2026-10-29/
+
+9. Cohere announces an initial close of a Series E targeting up to CAD $7 billion
+Cohere announced the initial close of a Series E funding round targeting up to CAD $7 billion at a stated CAD $35.7 billion valuation. The company named Schwarz Group as lead investor and listed Bell Ventures, Bullhound Capital and the Government of Canada among new strategic or institutional investors, with NVIDIA and other existing backers also participating. Cohere says the capital will support frontier-model development, enterprise products for regulated sectors and long-term compute infrastructure; the CAD $7 billion figure is the round’s target, not the amount confirmed as already raised.
+Source: https://www.newswire.ca/news-releases/cohere-announces-series-e-fundraise-targeting-cad-7-billion-to-meet-surging-global-demand-for-secure-sovereign-ai-811489745.html
+
+10. New York lawmakers propose a tougher second phase of the RAISE AI safety law
+New York State Senator Andrew Gounardes and Assemblymember Jordan Wright introduced proposed legislation known as “RAISE Act 2.0” on 29 October. The proposal would expand reporting and audit requirements for large AI developers, require disclosure of significant changes in automated AI research capabilities, and give a state office powers to limit certain high-risk training activity or seek court intervention. It is a bill proposal, not enacted law; its scope, thresholds and enforceability will be shaped by the legislative process.
+Source: https://www.nysenate.gov/newsroom/press-releases/2026/andrew-gounardes/sen-gounardes-proposes-major-new-ai-safety-and
+
+11. Check Point unveils a higher-capacity security system for AI data-centre traffic
+Check Point announced its Maestro Hyperscale Orchestrator 200, a network-security platform designed to inspect high-volume, often encrypted traffic in AI data centres and neocloud infrastructure. The company says the system adds 400GbE ports and raises total fabric capacity to 12.8 Tbps, with up to 4.5 Tbps of threat-prevention throughput. The launch reflects a growing infrastructure challenge: as training, inference and agent workloads generate more east-west data-centre traffic, security inspection must scale without becoming a performance bottleneck.
+Source: https://www.prnewswire.com/news-releases/check-point-secures-ai-scale-traffic-for-neoclouds-sovereign-ai-and-the-enterprise-with-new-maestro-hyperscale-orchestrator-302923480.html
+
+12. Wabi raises $55 million at a reported $1.25 billion valuation for its personal AI agent
+Wabi, the AI startup founded by Replika creator Eugenia Kuyda, said it raised $55 million at a $1.25 billion valuation. The company has repositioned its product from prompt-based mini-app creation toward a personal AI messenger that can build small task-specific interfaces for users. The funding shows investor interest in agent products that move beyond answering questions toward carrying out everyday workflows, but sustained retention and reliable execution remain the key tests for this category.
+Source: https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/
+
+13. Digital Science acquires research-writing platform Jenni AI
+Research technology company Digital Science acquired Jenni AI, an AI-assisted research and writing platform used by more than eight million students and researchers across 189 countries, according to Research Information. Digital Science plans to connect Jenni AI with its Dimensions research database, which it says contains 171 million publications, to strengthen literature discovery and citation checking against published sources. Financial terms were not disclosed; the strategic value lies in combining generative writing tools with structured scholarly metadata and source verification.
+Source: https://www.researchinformation.info/news/digital-science-acquires-ai-research-and-writing-platform-jenni-ai/
+
+14. Samsung reports record quarterly profit as demand for AI memory accelerates
+Samsung Electronics reported third-quarter 2026 revenue of KRW 195.3 trillion and operating profit of KRW 107.4 trillion, both quarterly records according to its results announcement. Its Device Solutions division reported KRW 147.1 trillion in revenue, while the company cited strong demand for AI-related memory, including high-bandwidth memory and server storage. The results underline how demand for AI compute is flowing through to memory suppliers, even as capacity constraints and the pace of future investment remain important variables.
+Source: https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results
+
+15. Alibaba Cloud opens its first public-cloud region in the Netherlands
+Alibaba Cloud announced that its first Netherlands public-cloud region, located in Amsterdam, is operational with two data centres. The company said the region is intended to provide lower-latency services and in-region data residency for European customers, and that it plans to bring agentic AI services to the region. The expansion is part of the broader competition among cloud providers to offer local infrastructure for enterprises with performance, regulatory and data-control requirements.
+Source: https://www.tradingview.com/news/eqs%3A609b0e228094b%3A0-alibaba-cloud-launches-first-public-cloud-region-in-the-netherlands/
+
+16. Rivian says it is licensing AI voice-assistant technology through its Volkswagen joint venture
+In its 29 October third-quarter earnings presentation, Rivian disclosed that it had expanded its joint venture with Volkswagen Group to license elements of Rivian’s AI Voice Assistant technology. The company framed the move as part of a wider software and electrical-architecture partnership, alongside its effort to build a more integrated AI-defined vehicle experience. The disclosure is evidence of Rivian’s software stack being used beyond its own vehicles, although the presentation does not establish the scale or financial contribution of the licensing arrangement.
+Source: https://www.sec.gov/Archives/edgar/data/1874178/000187417826000065/ex-9923q26rivianearnings.htm
+
+17. Cognizant reports third-quarter results as enterprise AI adoption moves toward delivery
+Cognizant announced its third-quarter 2026 financial results on 29 October, reporting 12% year-over-year revenue growth in Financial Services alongside adjusted operating-margin expansion and stronger free cash flow. CEO Ravi Kumar S. described the enterprise AI market as shifting from capability demonstrations toward measurable value and redesigning how work gets done. The results provide a view into demand for technology services, while the company’s comments on AI adoption remain management’s assessment rather than independent proof of productivity gains.
+Source: https://investors.cognizant.com/news-and-events/news/news-details/2026/Cognizant-Reports-Third-Quarter-2026-Results/default.aspx
+
+WHAT TO WATCH
+
+- Whether India’s ESTIC discussions on AI-native 6G, quantum-safe communications and physical AI translate into funded programmes, standards work or deployment plans. Source: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2329907&lang=1&reg=3
+- CloudSEK’s first Launchpad cohort and the real-world security performance of KeyVigil; applications are listed as open until 20 November 2026. Source: https://www.cloudsek.com/launchpad
+- Developer and enterprise evaluations of Mistral Large 4’s newly released weights, particularly its coding, defensive-security and self-hosting trade-offs. Source: https://mistral.ai/news/mistral-large-4-oss/
+- The size and closing timeline of Cohere’s Series E, and how its planned compute and sovereign-AI investments are allocated. Source: https://www.newswire.ca/news-releases/cohere-announces-series-e-fundraise-targeting-cad-7-billion-to-meet-surging-global-demand-for-secure-sovereign-ai-811489745.html
+- The legislative path for New York’s proposed RAISE Act 2.0 and whether its model-reporting and intervention powers change before passage. Source: https://www.nysenate.gov/newsroom/press-releases/2026/andrew-gounardes/sen-gounardes-proposes-major-new-ai-safety-and
+
+SOURCES & VERIFICATION NOTE
+This briefing prioritises official company, government, university and investor-relations material, supplemented by established reporting including Reuters, TechCrunch, YourStory, Tech Observer and Careers360/PTI. Funding amounts, valuations, product specifications, benchmarks and forward-looking plans are attributed to the company or publication reporting them; targets are not treated as completed transactions. The RAISE Act 2.0 is a proposal, not enacted legislation. Cohere’s CAD $7 billion figure is a target for the Series E, not a confirmed final amount. Some India startup developments are sourced from YourStory’s dated 29 October roundup; the publication date is used as the report date where the underlying company announcement was not separately linked in that roundup.
+
+End of briefing.
