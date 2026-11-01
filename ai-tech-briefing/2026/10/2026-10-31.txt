@@ -1,0 +1,68 @@
+AI & TECH DAILY BRIEFING
+Coverage date: Saturday, 31 October 2026 (India Standard Time)
+Prepared: Sunday, 1 November 2026
+
+EDITOR'S NOTE
+This was a quieter Saturday for AI and technology news. Six developments cleared the relevance and date checks, all in the global section; no India-specific AI or technology announcement or event could be verified as occurring on 31 October IST. Several India-related reports published that day described disclosures made on 30 October and have not been carried forward. Reported private fundraising information, company security statements, market movements and third-party infrastructure estimates are attributed below rather than presented as independently established facts.
+
+INDIA: AI & TECH
+
+No India-specific AI or technology development passed the 31 October 2026 IST event-date check. India-related stories appearing in the news cycle on 31 October concerned developments disclosed on 30 October, so they have been excluded rather than reassigned to the later coverage date.
+
+GLOBAL AI & TECHNOLOGY
+
+1. OpenAI reportedly cuts its latest fundraising target to about $20 billion
+Reuters reported on 31 October IST, citing the Financial Times, that OpenAI had reduced its latest funding-round target by $10 billion to about $20 billion after some investors scaled back their intended allocations. The report said the first close was expected to be below the revised target and that a UAE investor consortium including state-backed MGX was expected to be a major participant. The figures concern a private fundraising process and have not been confirmed by OpenAI; Reuters said the company and several named investors had not responded to requests for comment.
+Sources:
+https://www.reuters.com/business/openai-cuts-funding-target-by-10-billion-ft-reports-2026-10-31/
+
+2. Chainalysis discloses an intrusion it describes as using “offensive agentic techniques”
+Chainalysis published a security notice dated 30 October; its publication metadata places the notice at 21:14 UTC, or 02:44 IST on 31 October. The company said an external actor used what it called “offensive agentic techniques” to access internal systems and tools, and that some customer profile information—including user IDs, names, email addresses and organisation role labels—was accessed. Chainalysis said it had found no indication that investigation records, transaction or query results, clear-text passwords, MFA secrets or session tokens were accessed; it has not publicly identified the tools, entry path, affected-record count or exact intrusion dates.
+Sources:
+https://www.chainalysis.com/blog/security-incident-october-30/
+https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/
+
+3. Crypto exchanges call for faster, coordinated security responses after the Binance theft
+Reuters reported on 31 October IST that rival exchanges were strengthening checks after the $6.3 billion Binance theft. Coinbase said it had adjusted systems used to store cryptocurrency keys offline, Kraken said it was reviewing lessons from the incident, and OKX chief executive Star Xu called for a real-time alert system that would let exchanges share breach information and coordinate responses. The episode highlights the difficulty of containing attacks and tracing funds across decentralised networks, where some assets can be frozen by issuers but others cannot be centrally blocked.
+Sources:
+https://www.reuters.com/legal/government/crypto-exchanges-call-quick-moves-bolster-defenses-after-binance-heist-2026-10-31/
+
+4. FBI attributes the Binance theft to North Korea as Binance says it has covered about 90% of the loss
+On 31 October, the FBI said North Korea-linked group TraderTraitor was responsible for stealing more than $6 billion in virtual assets from Binance and said the funds were being converted primarily into ether before further laundering. In a separate update the same day, Binance said it had covered about 90% of the roughly $6.3 billion affected amount—around $6 billion—using company resources, with the remaining portion consisting of less-liquid tokens that could take longer to source. The attribution is the FBI's assessment, while the recovery figure and commitment to absorb the loss are Binance's statements; the exchange said it was still working toward restoring withdrawals.
+Sources:
+https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack
+https://www.binance.com/en/square/post/383334058248881
+https://www.reuters.com/legal/government/binance-says-90-stolen-assets-replenished-2026-10-31/
+
+5. US technology shares fall as investors question the returns on AI infrastructure spending
+US markets closed sharply lower on Friday, 30 October in New York, which was early Saturday, 31 October in India. The Nasdaq Composite fell 2.86%, the S&P 500 lost 1.82% and the Dow declined 1.09%, as results and spending outlooks from Intel and Amazon intensified scrutiny of the cost and payoff of the AI infrastructure race. Reuters reporting carried by The Economic Times said the Nasdaq 100 had lost more than $2 trillion in market value during October; the sell-off signals tougher investor scrutiny of capital intensity, not proof that demand for AI compute has disappeared.
+Sources:
+https://www.moneycontrol.com/news/business/markets/wall-street-closes-sharply-lower-as-ai-cash-burn-fears-spark-tech-selloff-14064895.html
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-100-cracks-5-faces-2-trillion-wipeout-in-october-as-ai-spending-fears-deepen/articleshow/135376949.cms
+
+6. Local opposition creates permitting and power constraints for the AI data-centre buildout
+Axios reported on 31 October that more than 300 local moratoriums and pauses were adding political and regulatory friction to US data-centre development, even as construction plans continued to expand. Citing research firm SemiAnalysis, Axios said the industry could add more than 50 gigawatts of capacity in 2027, with a large share already at an advanced stage and developers having signed substantial lease commitments. The figures are estimates from SemiAnalysis, not a completed-capacity tally; the story matters because grid connections, environmental reviews, water use and community opposition can delay projects even when demand and financing are available.
+Sources:
+https://www.axios.com/2026/10/31/ai-data-center-backlash
+
+WHAT TO WATCH
+
+- OpenAI's fundraising process: Watch for a company statement, confirmation of the first close and clarity on final investor commitments.
+  Source: https://www.reuters.com/business/openai-cuts-funding-target-by-10-billion-ft-reports-2026-10-31/
+
+- Chainalysis incident investigation: Watch for the technical entry path, the number of affected customer records and the organisation-specific impact breakdown.
+  Source: https://www.chainalysis.com/blog/security-incident-october-30/
+
+- Binance service restoration: The exchange said it was working toward resuming withdrawals on Sunday, 1 November, and said a full zero-knowledge proof-of-reserves verification would follow after processing.
+  Source: https://www.binance.com/en/square/post/383334058248881
+
+- AI data-centre permitting and power: Track whether local moratoriums, grid delays and environmental reviews change the pace of projects planned for 2027.
+  Source: https://www.axios.com/2026/10/31/ai-data-center-backlash
+
+- Meta–Fourier humanoid-robot report: The Information reported a prototype project, but Reuters said it could not independently verify the claim; watch for confirmation from either company before treating it as established.
+  Source: https://www.reuters.com/world/china/meta-builds-humanoid-robot-with-chinese-startup-fourier-information-says-2026-10-31/
+
+SOURCES & VERIFICATION NOTE
+The coverage boundary is 31 October 2026 in India Standard Time. UTC publication times were converted to IST where they crossed midnight: the Chainalysis notice is dated 30 October and its 21:14 UTC publication timestamp falls at 02:44 IST on 31 October; the US market close on Friday 30 October also occurred early on 31 October IST. The OpenAI funding details are attributed to the Financial Times via Reuters and are not company-confirmed. Chainalysis's description of “offensive agentic techniques” is the company's wording; the notice does not establish which AI tools or methods were used. The Binance attribution is from the FBI, while the asset-replenishment figure is Binance's own update. Data-centre capacity and moratorium figures are attributed to SemiAnalysis through Axios. A report that Meta had built a humanoid-robot prototype with Fourier was not included as a confirmed story because Reuters said it could not independently verify it. Earlier 30 October IST announcements and developments were excluded rather than carried into this edition. The day was quieter than usual, so the briefing is shorter than the 12–18 item target.
+
+END OF BRIEFING
