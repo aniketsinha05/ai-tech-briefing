@@ -1,0 +1,65 @@
+AI & TECH DAILY BRIEFING
+Coverage date: Sunday, 1 November 2026 (India Standard Time)
+Prepared: Monday, 2 November 2026
+
+EDITOR'S NOTE
+This was a quieter Sunday for verifiable AI and technology developments. Eight items passed the strict 1 November IST date check, so this edition is shorter than the usual 12–18-story target rather than padded with older announcements, recycled coverage or speculative claims. Where a policy or product was announced earlier but became effective or opened on 1 November, that timing is stated explicitly.
+
+INDIA: AI & TECH
+
+1. Digi Yatra begins international passenger trials at seven airports
+The Ministry of Civil Aviation said international-passenger trials for Digi Yatra began on 1 November at Delhi, Bengaluru, Hyderabad, Cochin, Mumbai, Chennai and Amritsar airports. Initially, eligible Indian nationals with e-passports can use an e-passport-based verifiable credential at enabled airport touchpoints on select international flights operated by Air India and IndiGo; the trial is scheduled through November and December to inform a wider 2027 rollout. The ministry stressed that the digital process complements, rather than replaces, passports, airline checks and immigration procedures.
+Source:
+https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2331200&lang=1&reg=1
+
+2. DoT's caller-name presentation requirement takes effect on 4G and newer networks
+The Department of Telecommunications' instruction requiring operators to introduce Calling Name Presentation (CNAP) across 4G and higher-generation wireless networks took effect on 1 November. For unsaved domestic numbers, the originating operator's subscriber record is intended to supply the caller name shown alongside the number; the directive does not set a rollout date for 2G/3G or fixed-line networks, and a displayed name is not proof that a call is genuine. The date marks the mandated start of the rollout, not independently verified universal activation on every network or handset.
+Source:
+https://www.livemint.com/news/india/caller-name-display-mandatory-from-november-1-how-indias-new-cnap-rule-will-work/amp-11792083819949.html
+
+3. Temple opens its India pre-order window for a health-focused wearable
+Temple's India pre-order window was scheduled to open at 9:30pm IST on 1 November, and the company's official website now lists pre-orders as open. Moneycontrol reported that the app showed a price of about ₹85,000 during cart preparation, while noting that it was unclear whether this was the final device price or a booking amount; Temple markets the wearable around a cerebral-blood-flow measure called BrainFlow and a proprietary Entropy score. Those are company-described wellness metrics, not a medical diagnosis, and independent validation, final pricing and delivery performance remain important tests.
+Sources:
+https://temple.com/
+https://www.moneycontrol.com/technology/deepinder-goyal-s-temple-pre-orders-go-live-in-india-via-app-and-website-how-to-pre-order-indian-price-and-delivery-details-article-14065331.html
+
+4. Congress posts an AI-generated campaign video during Delhi's INDIA bloc rally
+The Indian National Congress posted an AI-generated animated campaign video on its official X account ahead of the INDIA bloc rally in Delhi; The Indian Express's live coverage timestamped the post at 08:54 IST on 1 November. The post is a concrete example of synthetic media entering mainstream political campaigning and raises questions about labelling, provenance and how viewers distinguish generated scenes from documentary footage. The report identifies the video as AI-generated but does not detail the production toolchain.
+Source:
+https://indianexpress.com/article/india/india-bloc-protest-rally-live-updates-ramilila-maidan-chalo-delhi-anti-cec-gyanesh-kumar-modi-congress-sp-tmc-rahul-gandhi-10945439/lite/
+
+5. Railways flags off Bengaluru–Mumbai Vande Bharat Sleeper Express
+Railways Minister Ashwini Vaishnaw flagged off the SMVT Bengaluru–Chhatrapati Shivaji Maharaj Terminus Mumbai Vande Bharat Sleeper Express on 1 November. The overnight service is scheduled to run through Andhra Pradesh, Karnataka and Maharashtra, including Anantapur, Guntakal, Raichur, Yadgir, Kalaburagi, Solapur, Pune and Kalyan; the published timetable shows a 7:45pm departure from Bengaluru and an 11:55am arrival in Mumbai the next day. The launch expands India's newer sleeper-train offering and links two major technology and financial centres, although the flag-off itself does not establish long-term service reliability.
+Source:
+https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2331297&lang=1&reg=3
+
+GLOBAL AI & TECHNOLOGY
+
+6. Microsoft makes its school AI safety and privacy standard available to US districts
+Beginning 1 November, Microsoft made its National AI Safety & Privacy Standard available for any US school district to add to new or existing Microsoft agreements without renegotiating the contract. The opt-in protections include prohibiting the use of student and educator data for AI model training, requiring human oversight for high-risk decisions, limiting data use and retention, and imposing security and transparency obligations; they become contractually enforceable once incorporated rather than applying automatically to every district. Adoption by school systems and whether other AI vendors accept comparable terms will determine the standard's wider influence.
+Sources:
+https://aka.ms/AISafetyPrivacyStandard
+https://news.microsoft.com/source/2026/09/09/aft-uft-and-microsoft-announce-national-ai-safety-privacy-standard-for-schools-to-protect-students-families-and-educators/
+
+7. Binance starts phased withdrawal restoration after the $6.3 billion crypto theft
+Binance began restoring customer withdrawals in phases on 1 November after suspending them following a reported $6.3 billion theft on 29 October. In its 1 November recovery update, the exchange said it had covered about 95% of the affected amount, with the remaining 5% consisting of less-liquid tokens that take longer to source, and said it would absorb the loss rather than pass it to customers. The restart is a service-restoration milestone; Binance said a fuller post-incident report would follow after its investigation, so the cause and security lessons remain under review.
+Sources:
+https://www.binance.com/en-GB/support/announcement/security-incident-recovery-update-4-withdrawals-resume-in-phases-2026-11-01-73911fb819b240f88b88256bdd318eda
+https://www.reuters.com/legal/government/binance-resume-withdrawals-after-recovering-bulk-6-billion-stolen-funds-2026-11-01/
+
+8. London mayor calls for limits on robotaxi numbers and stronger local powers
+London Mayor Sadiq Khan called on 1 November for a cap on the number of robotaxis operating in the capital and more powers for Transport for London to manage autonomous-vehicle services. His comments came as Baidu Apollo Go vehicles are being tested in Brent and Uber has begun limited passenger rides in Wayve vehicles with a safety driver; Khan raised concerns about congestion, air quality, employment and the pace of rollout. The debate highlights a governance gap between national approval of driverless vehicles and local authorities' ability to control fleet size and operating conditions.
+Source:
+https://www.theguardian.com/technology/2026/nov/01/sadiq-khan-calls-cap-numbers-robotaxis-london-streets
+
+WHAT TO WATCH
+- Digi Yatra's November–December trial feedback and whether the Ministry announces additional airlines, airports or touchpoints ahead of the planned 2027 expansion. Source: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2331200&lang=1&reg=1
+- CNAP's practical rollout on 4G/5G networks, the accuracy of operator subscriber-name records and complaint handling; the service is not a guarantee against spam or fraud. Source: https://www.livemint.com/news/india/caller-name-display-mandatory-from-november-1-how-indias-new-cnap-rule-will-work/amp-11792083819949.html
+- Temple's first order volumes, final retail price, delivery timeline and independent evidence for its BrainFlow and Entropy metrics. Sources: https://temple.com/ and https://www.moneycontrol.com/technology/deepinder-goyal-s-temple-pre-orders-go-live-in-india-via-app-and-website-how-to-pre-order-indian-price-and-delivery-details-article-14065331.html
+- How many US school districts opt into Microsoft's AI safety and privacy protections, and whether other AI providers adopt comparable contract terms. Source: https://aka.ms/AISafetyPrivacyStandard
+- Binance's promised post-incident report, reserve evidence and the stability of phased withdrawals after the theft. Source: https://www.binance.com/en-GB/support/announcement/security-incident-recovery-update-4-withdrawals-resume-in-phases-2026-11-01-73911fb819b240f88b88256bdd318eda
+
+SOURCES & VERIFICATION NOTE
+Sources include official government releases and company material, alongside established reporting where additional context was needed. The coverage window is 1 November 2026 in IST. CNAP and Microsoft's school standard are included because their stated effective or availability date was 1 November even though their original directives or agreements were published earlier. Temple's announced India pre-order time is distinguished from the morning Moneycontrol article; the company's current website confirms that pre-orders are now open. Reports about developments announced on 30–31 October, and reports published after the IST cutoff where the event time could not be verified within the coverage window, were excluded. Company claims, product metrics, prices and forward-looking timelines remain attributed and should not be treated as independently validated outcomes.
+
+END OF BRIEFING
