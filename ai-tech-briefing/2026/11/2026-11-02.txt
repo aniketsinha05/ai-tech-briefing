@@ -1,0 +1,118 @@
+AI & TECH DAILY BRIEFING
+Coverage date: Monday, 2 November 2026 (India Standard Time)
+Prepared: Tuesday, 3 November 2026
+
+EDITOR'S NOTE
+This briefing covers developments announced, published, or occurring on 2 November 2026 in India Standard Time. Where a story concerns a company plan, a proposed government allocation, a reported sale process, or a forward-looking target, that status is made explicit. Company claims about performance, projected benefits, and future timelines are attributed and should not be treated as independently verified outcomes. Stories whose underlying announcement or event occurred on an earlier date have been excluded even where they were discussed again on 2 November.
+
+INDIA: AI & TECH
+
+1. Uttar Pradesh opens a Green Skills and Applied AI Centre of Excellence in Noida
+The Government of Uttar Pradesh, 1M1B Foundation, MeitY Startup Hub and Microsoft inaugurated a Green Skills & Applied AI Centre of Excellence at Gautam Buddha University on 2 November. The centre will focus on practical AI applications in sustainable manufacturing, industrial efficiency and green technologies, and is the fifth facility in a national network that the partners say aims to engage 100,000 young people by 2030. Its impact will depend on the quality of hands-on training and the strength of the employment, internship and entrepreneurship pathways it creates.
+Sources:
+https://www.outlookindia.com/announcements/news-media-wire/1m1b-meity-startup-hub-and-microsoft-launch-green-skills-applied-ai-centre-of-excellence-in-noida
+https://digitallearning.eletsonline.com/2026/11/gbu-noida-green-skills-ai-coe/
+
+2. Quick Heal launches Seqrite NOVA, an AI-assisted privacy platform for Indian businesses
+Quick Heal, through its enterprise brand Seqrite, announced Seqrite NOVA Data Privacy for small businesses, SMEs and mid-sized enterprises seeking to manage obligations under India's Digital Personal Data Protection Act. The company says the platform uses AI to discover and classify personal data across endpoints, cloud applications, databases and unstructured files, recognise text in scanned documents, and translate privacy notices and consent experiences into 22 officially recognised Indian languages. The launch targets a real compliance-capacity gap for smaller organisations, but the product should be understood as a compliance-support tool rather than a guarantee of legal compliance.
+Source:
+https://www.quickheal.co.in/media-detail?id=1486
+
+3. Provision Labs acquires Basilisk Industries to build physical-AI hardware capability
+Provision Labs, the physical-AI venture founded by Pronto founder Anjali Sardana, announced on 2 November that it had acquired Basilisk Industries. Basilisk founder Shourya Watwani is joining Provision as head of hardware; Sardana said the team has been developing hand-tracking, perception hardware and tactile-interface capabilities for systems that interact with the physical world. The acquisition gives Provision a hardware-development capability alongside its data, evaluation and deployment work, although the companies did not disclose the deal value.
+Source:
+https://www.moneycontrol.com/news/business/startup/pronto-founder-anjali-sardana-s-provision-labs-acquires-basilisk-industries-14066484.html/amp
+
+4. NTT DATA outlines plans to more than double its Mangaluru workforce by 2027
+NTT DATA discussed expanding its Mangaluru workforce from about 900 people to more than 2,500 by the end of 2027 during a 2 November meeting with Karnataka IT and BT Minister Priyank Kharge. The proposed expansion is intended to build capabilities in AI, cloud, data and specialised services for sectors including healthcare, life sciences, automotive and manufacturing, while supporting Karnataka's effort to develop technology hubs beyond Bengaluru. The headcount figure is a forward-looking company plan, not jobs already created.
+Sources:
+https://www.moneycontrol.com/news/india/beyond-bengaluru-ntt-data-plans-to-expand-mangaluru-workforce-to-over-2-500-by-2027-14066729.html
+https://timesofindia.indiatimes.com/business/india-business/ntt-data-plans-to-scale-mangaluru-workforce-to-2500-by-2027/articleshow/135468425.cms
+
+5. Corning plans additional Pune manufacturing capacity as AI data-centre demand lifts connectivity needs
+Corning said it is preparing to add a larger adjacent manufacturing facility at its Pune site, with the foundation scheduled for 3 November and additional capacity expected to come online in 2027. The facility is intended to make optical-connectivity products for data centres and telecom networks, complementing Corning's existing Indian optical-fibre manufacturing operations; the company's India leadership said demand from AI data centres is growing faster than demand from telecom customers. Corning did not disclose the investment amount or planned production capacity, so the scale of the expansion remains unclear.
+Source:
+https://www.business-standard.com/companies/news/corning-to-expand-optical-fibre-manufacturing-in-india-amid-ai-demand-126110201474_1.html
+
+6. KKR, Singtel and Tata Communications reportedly explore a sale of STT GDC India
+The Economic Times reported on 2 November that KKR, Singtel and Tata Communications had initiated plans to sell their collective stake in STT Global Data Centres India, with a valuation above US$5.5 billion being sought and advisers reportedly appointed. STT GDC India operates 34 data centres across 10 locations with about 613 MW of capacity, making any ownership change significant for India's colocation and cloud-infrastructure market. This is a reported sale process based on people familiar with the matter; no binding transaction or official confirmation from the shareholders was available at the time of writing.
+Source:
+https://datacenters.economictimes.indiatimes.com/news/investments-deals/kkr-singtel-tata-group-to-sell-stt-gdc-india-stake/135460714
+
+7. Pebble launches Qore Vox, a screenless wellness band with AI voice notes
+Pebble launched the Qore Vox in India, combining health tracking with a microphone for recording meetings, lectures and personal reminders, followed by transcription and AI-generated summaries in its companion app. The company says the app supports English, seven Indian languages and 24 other languages, while the band can store up to 100 minutes of audio; the introductory price was reported at ₹5,799 against an MRP of ₹9,999. The launch brings AI note-taking into a low-cost wearable, while making visible recording indicators and consent around recording other people important practical considerations.
+Sources:
+https://www.livemint.com/technology/pebble-qore-vox-brings-ai-meeting-notes-to-your-wrist-check-price-features-and-battery-life-11793617392293.html
+https://www.gadgets360.com/wearables/news/pebble-qore-vox-price-in-india-launch-specifications-features-12271849
+
+GLOBAL AI & TECHNOLOGY
+
+8. OpenAI launches Grid Protectors to address the electricity impact of AI campuses
+OpenAI announced a programme to work with utilities, regulators and policymakers so future compute campuses can reduce electricity demand when local grids are under strain. For its planned Effingham County campus in Georgia, OpenAI points to an agreement with Georgia Power that includes up to 1,000 megawatts of flexible demand response, and says it will pay the full infrastructure and electric-service costs required for the project. The initiative responds to growing concern that data-centre expansion could raise costs for other electricity customers, but the campus is still in development and the proposed grid benefits have not yet been demonstrated in operation.
+Source:
+https://openai.com/index/grid-protectors-program/
+
+9. Microsoft and Lumen expand collaboration to build AI-ready enterprise networks
+Microsoft and Lumen announced an expanded co-selling collaboration to help enterprises connect data, applications and infrastructure spread across public clouds, private data centres and offices. Lumen intends to bring more of its cloud-networking and application-connectivity capabilities to Azure, while the companies plan joint account planning for customers combining network modernisation, cloud migration and AI transformation. The announcement addresses a practical bottleneck in enterprise AI deployment, although the companies have not yet provided detailed rollout dates or customer-outcome metrics for the expanded offer.
+Sources:
+https://news.microsoft.com/source/2026/11/02/lumen-and-microsoft-expand-collaboration-to-co-sell-enterprise-ai-ready-networks/
+https://ir.lumen.com/news/news-details/2026/Lumen-and-Microsoft-Expand-Collaboration-to-Co-Sell-Enterprise-AI-Ready-Networks/default.aspx
+
+10. Google launches Skilling Africa with Google, targeting three million learners by 2030
+Google launched a unified learning hub that brings more than 15 of its digital and AI-skills programmes into one place, with a stated target of reaching three million people across Africa by 2030. The company says the hub builds on more than seven million people previously trained through its programmes and includes low-bandwidth and offline learning features, alongside SCOUT, an AI-powered study companion. The initiative could widen access to practical AI and cloud training, but the three-million figure is a company target rather than a completed outcome.
+Source:
+https://blog.google/intl/en-africa/unlocking-africas-ai-potential-introducing-skilling-africa-with-google/
+
+11. Marvell agrees to acquire Lumentum in a US$115 billion enterprise-value deal
+Marvell and Lumentum announced a definitive all-stock merger agreement that values Lumentum at an implied enterprise value of about US$115 billion; Lumentum shareholders are to receive 4.5 Marvell shares for each Lumentum share. The combination would bring together Marvell's custom silicon, switching and electrical/optical interconnect technologies with Lumentum's lasers, optical transceivers, optical switching and specialised compound-semiconductor manufacturing. The companies expect the transaction to close in the first half of 2028, subject to shareholder and regulatory approvals; projected market size and synergy figures remain management estimates.
+Source:
+https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity
+
+12. South Korea's president urges parliament to back a major AI, chip and data-centre spending package
+In his 2 November budget address, President Lee Jae Myung urged lawmakers to approve a record 820.9 trillion won budget for 2027 and highlighted 21.3 trillion won for AI and three major technology projects: semiconductors, physical AI and AI data centres. The package is nearly twice the comparable amount allocated this year and signals that Seoul wants to connect AI-model development with domestic chip production, robotics and compute infrastructure. The 21.3 trillion won figure covers AI and the three named megaprojects rather than AI software alone, and the budget still requires parliamentary approval.
+Source:
+https://www.reuters.com/world/asia-pacific/south-koreas-lee-vows-make-bold-ai-investment-record-budget-push-2026-11-02/
+
+13. ADNOC, G42 and OpenAI agree to deploy frontier AI across energy operations
+Abu Dhabi's ADNOC announced a multi-year partnership with OpenAI and G42 to apply advanced AI across operational, investment and commercial decisions, beginning with field-development planning that draws on data from thousands of wells and related facilities. The companies say the systems will use OpenAI GPT models on UAE-based computing infrastructure and connect decisions across production, processing, refining, logistics, sales and trading; ADNOC says the technology could reduce complex planning work from months to hours. The agreement's financial value and deployment timetable were not disclosed, and the projected efficiency gains remain company expectations rather than measured results.
+Sources:
+https://www.adnoc.ae/media-center/news/2026/11/ADNOC-Signs-Landmark-Partnership-Agreement-with-OpenAI
+https://www.reuters.com/business/energy/abu-dhabis-adnoc-g42-sign-deal-with-openai-sam-altman-travels-uae-2026-11-02/
+
+14. Hong Kong's HKMA launches Project SAGE to develop rules for agentic finance
+The Hong Kong Monetary Authority launched Project SAGE, short for Securing Agentic Finance with Governance and Enablement, and established an expert group to support responsible use of AI agents in financial services. The work will examine practical use cases, agent identity and authentication, interoperability and standards, and legal and regulatory questions such as governance, liability and consumer protection. The initiative recognises that financial AI agents may move beyond internal assistance to taking actions on customers' behalf, making accountability and security central to adoption.
+Source:
+https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261102-4/
+
+15. HKMA and HKUST publish a post-quantum cryptography toolkit for banks
+The Hong Kong Monetary Authority and Hong Kong University of Science and Technology launched a toolkit to help banks plan their transition to post-quantum cryptography. It provides a framework for mapping cryptographic assets and dependencies, assigning governance responsibilities, identifying migration priorities and building practical transition timelines. The toolkit is a preparedness resource rather than an immediate change to banks' encryption systems, but it addresses the long lead times involved in replacing cryptography across complex financial infrastructure.
+Source:
+https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261102-6/
+
+16. HKMA expands Project Ensemble to support 24/7 settlement in tokenised central-bank money
+The HKMA said the pilot phase of Project Ensemble, known as EnsembleTX, has entered a new phase that supports round-the-clock interbank settlement of tokenised deposit transactions in tokenised central-bank money. The authority reported that participation has grown to 12 banks and 20 industry pioneers, enabling settlement beyond conventional banking hours within the pilot framework. The move is intended to support always-on tokenised financial markets, but it remains a regulated industry pilot rather than a general retail payment service.
+Source:
+https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261102-5/
+
+17. Cyberattacks disrupt supermarket refrigeration systems across Europe
+A hacking incident on 2 November affected supermarket refrigeration and freezer systems in several European countries, including Sweden, Belgium, Luxembourg and Ireland, forcing some retailers to discard food after temperatures rose. Reuters reported impacts at store groups including ICA, Coop, Delhaize and Colruyt; authorities and affected companies were investigating, and no group had claimed responsibility. The incidents show how connected operational-technology systems, from cooling units to building controls, can become targets with direct physical and supply-chain consequences; attribution remains unresolved.
+Source:
+https://www.reuters.com/business/retail-consumer/temperature-soars-swedish-grocery-store-freezers-one-store-blames-hackers-2026-11-02/
+
+18. Sierra redesigns Agent Studio around its Ghostwriter agent-building assistant
+Sierra redesigned Agent Studio so users can investigate customer-service problems, inspect conversations, update agent journeys and test proposed fixes through a single ongoing conversation with Ghostwriter. The company says evidence, proposed changes and test results remain together in a session, with changes held for review before they are merged or deployed. The update reflects a broader move toward AI-assisted agent development and iteration, although the productivity benefits will depend on how reliably the system diagnoses problems and how well teams review its proposed changes.
+Source:
+https://sierra.ai/blog/redesigning-agent-studio-around-ghostwriter
+
+WHAT TO WATCH
+
+- India's DPDP implementation: Watch whether products such as Seqrite NOVA help smaller businesses operationalise data discovery, consent and data-principal request workflows without overstating what software alone can certify.
+- India's digital-infrastructure market: Track whether the reported STT GDC India sale process advances, and whether Corning's planned Pune capacity expansion reaches its 2027 target.
+- AI connectivity consolidation: Follow shareholder and regulatory review of the Marvell-Lumentum agreement and whether the combined roadmap delivers the optical connectivity capacity AI data centres require.
+- Agentic finance governance: Watch the HKMA's Project SAGE work programme and whether financial institutions translate the PQC toolkit and EnsembleTX pilot into concrete controls and use cases.
+- AI power and public investment: Track the first operational commitments under OpenAI's Grid Protectors programme and parliamentary scrutiny of South Korea's 2027 AI, semiconductor and data-centre spending package.
+
+SOURCES & VERIFICATION NOTE
+Sources include official company and regulator announcements, government and institutional releases, Reuters, and established Indian technology and business reporting. The coverage date was checked against the date of the announcement, event or reported development, not merely the date on which an older story was recirculated. Reported sale plans, workforce targets, planned facilities and proposed public spending are labelled as such. Company projections and product claims are attributed; no claim of independently measured deployment impact is made where the available evidence is an announcement or plan.
+
+END OF BRIEFING
