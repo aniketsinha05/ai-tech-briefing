@@ -1,0 +1,151 @@
+AI & TECHNOLOGY DAILY BRIEFING — 3 NOVEMBER 2026
+Coverage date: 3 November 2026 (IST)
+Prepared date: 4 November 2026 (IST)
+
+EDITOR'S NOTE
+
+This edition contains 18 developments: eight from India and ten from the global technology sector. The date check uses India Standard Time rather than relying only on the calendar date printed by overseas publishers; for example, Trajectory's 2 November afternoon announcement in Pacific Time falls on 3 November in India. Items whose available timestamps clearly placed them on 4 November IST were excluded. Company-reported performance figures and forward-looking assessments are attributed rather than treated as independently established results.
+
+INDIA: AI & TECH
+
+1. IndiaAI Mission releases EKA-1 and Dhīr foundation models
+
+The Ministry of Electronics and IT's IndiaAI Mission released EKA-1, developed by Soket Labs, and Dhīr 2B and Dhīr 5B, developed by ZenteiQ, under the Innovation Centre's foundation-model pillar. PIB says EKA-1 has 26.3 billion parameters and was trained on approximately 7.5 trillion tokens across all 22 scheduled Indian languages and English, while the open-source Dhīr models support English and 10 Indian languages with on-premise and offline deployment options. The release is a visible milestone for India's publicly supported foundation-model effort, although independent benchmark comparisons and evidence from production deployments will be important next tests.
+
+Source: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332315
+
+2. Route Mobile subsidiary launches AI voice-fraud platform 365callguard
+
+365squared, a Route Mobile company within Proximus Global, launched 365callguard, an AI-powered voice-fraud protection platform for mobile and fixed-line operators and voice carriers. The company says it combines dedicated AI models with rule-based detection across seven categories, including vishing, caller-ID spoofing, Wangiri, international revenue-share fraud, SIM-box fraud, flash calls and robocalls. It can trigger call blocking, caller-ID changes or subscriber alerts depending on operator policy and network capability; the company did not publish independent detection-accuracy figures.
+
+Source: https://routemobile.com/press-release/365squared-launches-ai-powered-voice-fraud-protection-solution-365callguard/
+
+3. Cognizant models potential AI productivity gains for India's economy
+
+Cognizant published research estimating that AI-enabled productivity could add approximately $28 billion to $84 billion in annual nominal GDP under its realistic near-term adoption scenarios. Its survey of 700 enterprise employees and 75 senior executives found that 97% of surveyed employees reported some productivity improvement, averaging a self-reported 15%, while leaders said only 36% of employees had access to AI tools. Cognizant also calculated a theoretical upper bound of $830 billion, but explicitly says that figure is not a forecast and that all GDP estimates are directional, modelled from survey responses.
+
+Source: https://news.cognizant.com/2026-110-03-Cognizant-study-says-productivity-gains-from-AI-could-expand-Indias-GDP
+
+4. Apple reports record September-quarter revenue in India
+
+Apple's fiscal 2026 fourth-quarter results, posted on its India newsroom on 3 November, showed global revenue of $114.5 billion, up 12% year over year, and record Services revenue of $31.6 billion. On the earnings call, CEO John Ternus said India also delivered an all-time September-quarter revenue record and a record for iPhone upgraders, although Apple did not disclose an India revenue total. The results underline India's growing importance to Apple's hardware and services business, while the company also flagged higher memory costs as a pressure on near-term margins.
+
+Source: https://www.apple.com/in/newsroom/2026/11/apple-reports-fourth-quarter-results/
+Additional reporting: https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/consumer-electronics/apple-posts-all-time-september-quarter-revenue-records-in-india-ceo-john-ternus/135489630
+
+5. OpenAI says India is now ChatGPT's largest market by weekly active users
+
+OpenAI India managing director Prabhjeet Singh told The Economic Times that India had become ChatGPT's largest country market by weekly active users and that its user base had doubled since January 2026. The interview coverage did not provide a new absolute user count, so the ranking and growth rate remain company-reported rather than independently audited figures. Singh pointed to deeper everyday use and a stronger focus on voice and Indian-language experiences, making localisation and accessible product design important to the next phase of adoption.
+
+Source: https://cio.eletsonline.com/artificial-intelligence/chatgpt-india-largest-market/76671/
+Additional reporting: https://fourweekmba.com/ai-india-leads-the-us-as-chatgpts-no-1-market-openai-md-says/
+
+6. TRAI mandates IP-based interconnection for new telecom links
+
+The Telecom Regulatory Authority of India published the Telecommunication Interconnection (Third Amendment) Regulations, 2026, which take effect on 1 January 2027. New interconnections established after that date must be IP-based, while existing E1/TDM-based points and traffic at older Long Distance Charging Area and Short Distance Charging Area levels must migrate in phases to IP-based and Licensed Service Area-level arrangements within three years. The changes are intended to simplify routing, improve bandwidth efficiency and strengthen call quality and network reliability.
+
+Source: https://www.trai.gov.in/telecommunication-interconnection-third-amendment-regulations-2026
+Additional source: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2331941
+
+7. NITI Aayog launches India S&T Scoreboard
+
+NITI Aayog launched the India S&T Scoreboard, an interactive platform intended to give policymakers a consolidated view of science and technology capacity across Indian States and Union Territories. The scoreboard brings together inputs such as higher-education institutions, research laboratories, deep-tech startups and incubators with outputs including publications and patents, and adds indicators covering research quality, impact, collaboration and open access. Its value will depend on consistent data definitions, coverage and update frequency, but the platform could support more evidence-based comparison and research-policy decisions.
+
+Source: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332136
+
+8. Aditya-L1 observations reveal asymmetric expansion of a solar eruption
+
+The Indian Institute of Astrophysics used the VELC instrument aboard Aditya-L1, together with NASA's Solar Dynamics Observatory data and three-dimensional modelling, to analyse a coronal mass ejection that occurred on 5 August 2024. The study found that the eruption expanded asymmetrically rather than as a simple uniform bubble, with VELC's 530.3-nanometre spectroscopy adding line-of-sight velocity information to the imaging observations. Better estimates of a coronal mass ejection's shape, speed and arrival time can improve space-weather forecasting relevant to satellites and communications; this is a research result about an earlier event, not a solar eruption on 3 November.
+
+Source: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2331935
+
+GLOBAL AI & TECHNOLOGY
+
+9. Baidu introduces Apollo World simulation system for robotaxis
+
+Baidu launched Apollo World, an AI simulation system designed to recreate road environments and help train autonomous vehicles. Baidu says it can generate up to 100,000 kilometres of simulated driving per day, along with camera and lidar data, and is already being used to train its Apollo Go robotaxi fleet. The claimed simulation scale could reduce the cost of testing rare or complex driving scenarios, but it does not by itself establish real-world safety or commercial readiness.
+
+Source: https://www.reuters.com/technology/chinas-baidu-launches-ai-model-simulating-road-environment-robotaxis-2026-11-03/
+
+10. Bull and Schwarz Digits sign European sovereign AI infrastructure MoU
+
+French high-performance-computing company Bull and Schwarz Digits, the IT arm of Schwarz Group, signed a memorandum of understanding to develop an AI and cloud infrastructure stack operated under European jurisdiction. The plan combines Bull's server and HPC expertise with Schwarz Digits' STACKIT cloud, including rack-scale AI systems, direct-liquid-cooling capabilities and the planned availability of BullSequana AI software through the STACKIT marketplace. This is a preliminary partnership rather than a delivered service, but it reflects Europe's effort to retain greater control over compute, data and infrastructure used by regulated sectors.
+
+Source: https://www.bull.com/en/press-releases/pr-bull-and-schwarz-digits-a-franco-german-alliance-for-europes-digital-sovereign?hs_amp=true
+
+11. CrowdStrike expands security controls for enterprise AI agents
+
+At Fal.Con Europe, CrowdStrike announced an AI Kill Switch in Falcon Guardian that lets authorised security administrators terminate rogue agents, block them from relaunching and cut off their enterprise network access. The company also signed agreements to acquire agent-observability firm Fiddler and AI security-testing company Dreadnode, and announced a native Falcon Guardian integration for Anthropic's Claude Cowork. The acquisitions remain subject to customary closing conditions, but the announcements show how enterprise security vendors are building controls for agent behaviour before deployment and during execution.
+
+Sources:
+https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-delivers-ai-security-and-safety-enterprise
+https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-acquire-fiddler-deliver-agent-observability-ai-trust
+https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-acquire-dreadnode-advance-ai-trust-and-deliver
+https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-extends-anthropics-claude-cowork-enterprise-ai
+
+12. Google adds Singapore research hub and more than $6 million in university grants
+
+Google said it has established a research hub in Singapore and is providing more than $6 million in grants and capacity-building support involving the National University of Singapore and Nanyang Technological University. The work spans AI for science, Alzheimer's research, computing efficiency, regional-language processing, AI safety and trustworthy multi-agent systems; Google also announced separate funding for INSEAD's Thrive Lab. The commitments are ecosystem investments rather than a new consumer product, with potential benefits for regional research capacity and safer, more efficient AI systems.
+
+Source: https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/
+
+13. Google changes AI controls for schools and brings Guided Learning to Search and Classroom
+
+Google announced that Guided Learning is globally available in Google Classroom and will be piloted in Search at selected US schools later in November. It also said Gemini, Gemini Notebook, Gemini in Classroom and Google Search will be off for K-12 student accounts until school administrators explicitly enable them. The Verge reported concern that schools may have to disable Search to avoid Gemini-powered features, while Google said administrators can control services individually; the change puts school-level AI governance and product access in sharper focus.
+
+Sources:
+https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/
+https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features
+
+14. UK NCSC warns AI will accelerate cyber operations and ransomware capability
+
+The UK's National Cyber Security Centre published its Annual Review 2026, assessing that AI is highly likely to increase the speed, scale and efficiency of hostile cyber operations. The agency says its incident data has not yet shown AI enabling a fundamentally new class of attack, but it judges that AI malware is highly likely to be used in a ransomware attack against UK critical national infrastructure. These are the NCSC's threat assessments and forecasts, not a claim that such an attack has already occurred.
+
+Sources:
+https://www.ncsc.gov.uk/collection/annual-review-2026
+https://www.ncsc.gov.uk/collection/annual-review-2026/understanding-threat/ai-impact-cyber-threat
+
+15. Binance details how fake recruitment and an internal AI tool were used in a $6.3 billion theft
+
+Binance's initial detailed account of its 29 October security breach, published on 3 November, said attackers used malware distributed through a tampered developer tool and a fake job interview to compromise engineers. The exchange said attackers later used an internal AI tool on 20 October to access wallet developers' systems before stolen credentials were used in the 29 October theft; Binance said approximately $2.85 billion in assets had been frozen or intercepted and that affected customers would be reimbursed. The breach itself predates this coverage date, so the 3 November development is the forensic disclosure; attribution to a North Korean group remains disputed.
+
+Source: https://www.reuters.com/world/binance-says-hackers-used-fake-job-interview-compromise-computer-before-63-2026-11-03/
+
+16. Xiaomi tests its embodied AI model in a real apartment setting
+
+Xiaomi said its Xiaomi-Robotics-1 embodied model has entered trial operation at the company's Youth Apartments, where an agent system completed more than 30 minutes of work across three rooms and more than 50 household tasks. The reported tasks included desk tidying, rubbish collection, sorting and storing objects, room inspections and a final home check. The trial is limited to Xiaomi's own apartment environment, and the company has not published independent success-rate or unattended-operation data, so it is a useful deployment test rather than proof of general-purpose home-robot readiness.
+
+Source: https://www.ithome.com/1/021/602.htm
+
+17. Trajectory raises $45 million to automate AI model post-training
+
+AI startup Trajectory announced a $45 million Series A led by Sequoia at a $300 million valuation, with Nvidia, Bessemer Venture Partners and Bain Capital Ventures participating, and opened its post-training platform. The product connects feedback from business applications to continual fine-tuning of open models for specialised tasks, with the company naming Harvey, Rogo, Decagon, Mercor and Nvidia among its customers. The funding, valuation and customer list are company-reported, and independent performance data were not provided; the announcement's 2 November afternoon timestamp in Pacific Time falls on 3 November in India.
+
+Sources:
+https://www.trajectory.ai/field-notes/introducing-the-trajectory-platform
+https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/
+
+18. Chinese financial regulator warns AI investment is becoming too concentrated
+
+At the Hong Kong Monetary Authority's Global Financial Leaders' Summit, China's financial regulator deputy head Xiao Yuanqi warned that investment in AI was becoming overly concentrated and could crowd out traditional industries by raising borrowing costs. He argued that heavy capital flows into leading technology firms were increasing leverage and called for policy frameworks to address macroeconomic and financial risks from the AI investment cycle. The remarks are a policy warning rather than a new regulation, but they show financial-stability concerns entering the debate over AI infrastructure spending.
+
+Source: https://www.reuters.com/business/finance/ai-investment-is-becoming-overly-concentrated-chinese-official-says-2026-11-03/
+
+WHAT TO WATCH
+
+- IndiaAI's next steps on public access, model cards and independent evaluation for EKA-1 and Dhīr.
+  Source: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332315
+- TRAI's implementation guidance ahead of the 1 January 2027 start of IP-based interconnection for new links.
+  Source: https://www.trai.gov.in/telecommunication-interconnection-third-amendment-regulations-2026
+- Whether CrowdStrike's Fiddler and Dreadnode acquisitions close on schedule and how their capabilities are integrated into Falcon Guardian.
+  Source: https://ir.crowdstrike.com/press-releases
+- Independent performance and safety evidence from Baidu's Apollo World and Xiaomi's embodied-robot trials.
+  Sources: https://www.reuters.com/technology/chinas-baidu-launches-ai-model-simulating-road-environment-robotaxis-2026-11-03/ | https://www.ithome.com/1/021/602.htm
+- Binance's follow-up forensic findings, asset recovery and remediation after the 29 October breach.
+  Source: https://www.reuters.com/world/binance-says-hackers-used-fake-job-interview-compromise-computer-before-63-2026-11-03/
+
+SOURCES & VERIFICATION NOTE
+
+Coverage window: 00:00 to 23:59 IST on 3 November 2026. Prepared on 4 November 2026. Primary government, regulator and company releases were preferred; Reuters and established technology publications were used where they provided reporting or independent context. Overseas timestamps were normalised to IST where available, and items clearly falling on 4 November IST were excluded. Company-reported capabilities, funding details and performance figures are attributed; Cognizant's $830 billion figure is a theoretical upper bound, not a forecast, and CrowdStrike's acquisitions are proposed transactions subject to closing conditions. The Binance theft occurred on 29 October; this edition covers the company's 3 November forensic disclosure. The NCSC statements are risk assessments and forecasts, not reports of a new UK critical-infrastructure ransomware incident.
+
+END OF BRIEFING
