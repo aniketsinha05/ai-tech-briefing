@@ -1,0 +1,125 @@
+AI & TECH DAILY BRIEFING
+Coverage date: Wednesday, 4 November 2026 (India Standard Time)
+Prepared: Thursday, 5 November 2026
+
+EDITOR'S NOTE
+This briefing covers 14 developments announced or made public on 4 November 2026: six from India and eight from the global technology sector. The date check uses India Standard Time where publication times were available; items whose known timestamps fell after midnight on 5 November IST were excluded. Government approvals, company announcements and reported transactions are distinguished from completed deployments or independently verified outcomes. Company-reported capabilities, forecasts and funding details are attributed, and the reported Oracle–Tencent chip-lease cancellation is explicitly identified as unverified by Reuters.
+
+INDIA: AI & TECH
+
+1. NPCI establishes a technology subsidiary focused on AI and digital infrastructure
+The National Payments Corporation of India (NPCI) said it had created NPCI Tech Solutions Limited (NTSL), a wholly owned subsidiary intended to serve as the group's technology and innovation arm, and appointed NPCI chief technology officer Vishal Kanvaty as its managing director and CEO. NPCI said NTSL will focus on artificial intelligence, blockchain, digital financial infrastructure and global capability-centre services, while also supporting technology work for digital public infrastructure programmes. The move gives the operator of UPI and other national payment rails a dedicated vehicle to build capabilities beyond its core payments mandate, although its product roadmap and initial projects have not yet been detailed.
+
+Sources:
+https://www.reuters.com/world/india/indias-payments-authority-npci-forms-unit-push-into-ai-blockchain-tech-2026-11-04/
+https://www.business-standard.com/amp/companies/news/npci-launches-tech-arm-for-ai-blockchain-names-vishal-kanvaty-as-ceo-126110401642_1.html
+
+2. I4C and CERT-In warn financial firms about AI-agent-enabled cyberattacks
+The Indian Cyber Crime Coordination Centre (I4C) and CERT-In issued an advisory warning banks, non-bank lenders, fintech firms and other financial entities that attackers are using AI agents to accelerate financially motivated intrusions. The agencies described criminals exploiting unpatched software and misconfigured systems before targeting automated fund-disbursement services and payment APIs, with the advisory flagging multi-crore unauthorised transactions in individual cases. Financial institutions were urged to implement CERT-In safeguards, inventory and disable obsolete payment interfaces, and report incidents to CERT-In within six hours; banks and NBFCs were also told to report to the RBI through its DAKSH portal within the same period.
+
+Sources:
+https://www.reuters.com/legal/government/india-cybercrime-agency-warns-financial-firms-ai-attacks-2026-11-04/
+https://www.livemint.com/technology/central-cyber-security-agency-warns-banks-fintech-firms-of-frauds-through-ai-agents-11793805354383.html
+
+3. Vodafone Idea and PwC launch Vi Intelligence for enterprise AI
+Vodafone Idea (Vi) launched Vi Intelligence, an initiative intended to apply AI across the telecom operator's internal operations and develop solutions for enterprise customers, in partnership with PwC India. The collaboration will establish the Vi Intelligence Lab, with a PwC Centre of Excellence team co-located with Vi in Mumbai, and will focus on agentic AI, assistive AI, and sovereign and responsible AI. The launch expands Vi's positioning beyond connectivity into enterprise AI services, but the companies have not yet published specific deployment metrics or customer outcomes.
+
+Sources:
+https://telecom.economictimes.indiatimes.com/news/industry/vodafone-idea-partners-pwc-india-to-drive-agentic-ai-led-transformation-for-enterprises/135530088
+https://www.voicendata.com/artificialintelligence/vi-partners-with-pwc-india-to-accelerate-enterprise-ai-adoption-12783633
+
+4. Cabinet approves VISTAR to modernise India's official statistics and data systems
+The Union Cabinet approved the Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR), a central-sector scheme with an outlay of Rs.4,371.10 crore for FY 2026-27 to FY 2030-31. The government says the programme will build a more timely, interoperable and AI-ready statistical architecture, digitise statistical processes and embed AI and machine learning in data processing, validation and analysis. If implemented with consistent standards and privacy safeguards, VISTAR could improve the quality and granularity of public data used for policy and research; the approval is a funding and programme decision, not evidence that the new systems are already operational.
+
+Source:
+https://www.pmindia.gov.in/en/news_updates/cabinet-approves-viksit-bharat-initiative-for-statistical-transformation-analytics-research-vistar-a-central-sector-scheme-for-the-period-2026-27-to-2030-31/
+
+5. Cabinet clears Rs.2,814-crore support scheme for lithium and nickel processing
+The Union Cabinet approved a five-year capital-support scheme with an outlay of Rs.2,814 crore to develop domestic processing of lithium and nickel ores and intermediate products into high-purity compounds. It provides a 30% capital subsidy for four plants—two lithium facilities and two nickel facilities—with cobalt expected as a by-product of nickel processing. The materials are important inputs for electric vehicles, battery storage, electronics and defence, so the scheme targets a strategic gap in India's critical-minerals supply chain; actual capacity will depend on beneficiary selection, project execution and access to feedstock.
+
+Source:
+https://www.pmindia.gov.in/en/news_updates/cabinet-approves-capex-support-scheme-to-promote-critical-mineral-processing-with-an-outlay-of-rs-2814-crore-for-lithium-and-nickel-processing/
+
+6. Cabinet approves Rs.14,500-crore funding plan for 92 GWh of grid-scale storage
+The Union Cabinet approved a Viability Gap Funding scheme with Rs.14,500 crore in government support over FY 2026-27 to FY 2030-31, targeting 92 GWh of new grid-scale energy storage. The plan covers 60 GWh of pumped-storage projects, 30 GWh of battery energy storage and 2 GWh of emerging technologies, with a minimum domestic-content requirement of 40% for battery projects. The programme is intended to help integrate more renewable power, stabilise the grid and encourage local battery manufacturing; the government estimates total project investment of about Rs.97,600 crore, which remains a target rather than completed capacity.
+
+Source:
+https://www.pmindia.gov.in/en/news_updates/cabinet-approves-rs-14500-crore-viability-gap-funding-scheme-for-development-of-92-gwh-grid-scale-energy-storage-systems/
+
+GLOBAL AI & TECHNOLOGY
+
+7. Tencent releases Hy4 with limits on cyber-offensive training
+Tencent released its Hy4 AI model and said it had restricted cybersecurity training to defensive tasks such as identifying and fixing software flaws, excluding material on building hacking tools or breaking into systems. The company said internal testing found no increased ability to bypass security protections or meaningfully facilitate harmful biological experiments, and it plans to publish model weights alongside a safety-testing report later. The release arrives amid concern about AI-enabled cyberattacks and highlights how model developers are beginning to describe safety choices in training data and release processes; the safety results cited are Tencent's own assessments.
+
+Sources:
+https://www.reuters.com/legal/litigation/tencent-rolls-out-ai-model-trained-with-limited-cybersecurity-data-amid-hacking-2026-11-04/
+https://developer.cloud.tencent.com/article/2776227
+
+8. Nooks announces $500 million growth-capital commitment and launches a revenue-agent platform
+AI sales startup Nooks said it secured a $500 million growth-capital commitment from General Catalyst's Customer Value Fund and launched its Revenue Agent Platform, alongside Node, an AI assistant for sales teams. The company describes the platform as a system in which agents and human representatives share context across prospecting, deal management, expansion and coaching; Reuters reported that the financing is structured around a share of returns generated by the capital rather than a conventional equity investment. Nooks says it has more than 2,000 customers and expects annual recurring revenue to nearly triple by year-end, but those operating figures are company-reported and the financing terms were not disclosed.
+
+Sources:
+https://www.reuters.com/business/finance/ai-sales-startup-nooks-secures-500-million-funding-expansion-2026-11-04/
+https://www.nooks.ai/blog-posts/introducing-node-revenue-agent-platform
+
+9. US banking regulator issues examiner framework for banks' use of advanced AI
+The US Office of the Comptroller of the Currency (OCC) issued a supervisory framework to help bank examiners evaluate banks' use of what it calls “Super Intelligence” and agentic systems. The guidance tells examiners to assess the consequences, autonomy and oversight of particular use cases rather than treating AI as a separate risk category, and says the document does not create new enforceable requirements for banks. The framework is significant because it gives supervisors a more explicit way to examine AI use in banking while keeping the focus on existing safety, soundness and compliance obligations.
+
+Sources:
+https://occ.treas.gov/news-issuances/news-releases/2026/nr-occ-2026-97.html
+https://www.occ.treas.gov/news-issuances/bulletins/2026/bulletin-2026-54.html
+
+10. Sentra raises $150 million to secure enterprise data accessed by AI agents
+Data-security company Sentra announced a $150 million Series C investment led by Capital One Ventures, which will also take a seat on the company's board. Sentra's platform is designed to identify sensitive enterprise data across cloud, SaaS and on-premises systems, map which people and AI agents can access it, and help organisations reduce excessive permissions. The funding reflects growing concern that autonomous agents can inherit broad access to corporate information; Sentra's growth figures and product-performance claims remain company-reported.
+
+Sources:
+https://sentra.io/news/sentra-raises-150-million-agentic-data-security
+https://sentra.io/blog/why-we-raised-150m-series-c-data-security
+
+11. EU launches a €525 million platform to support chip-design startups
+The European Commission launched the European Chip Design Platform, backed by €525 million intended to help startups and smaller firms move chip designs toward commercial production. The package comprises €440 million in grants and €85 million for the platform, which is intended to provide design tools, technical support, intellectual-property blocks and access to manufacturing capacity. The initiative addresses a weak point in Europe's semiconductor ecosystem—its chip-design companies account for less than 1% of global revenue in the segment, according to the Commission—and is partly aimed at capturing more value from AI-related chip demand.
+
+Sources:
+https://digital-strategy.ec.europa.eu/en/news/eu525-million-investment-set-drive-new-generation-european-chip-design-companies
+https://www.investing.com/news/stock-market-news/europe-to-invest-525-million-in-chip-startups-to-catch-up-with-us-and-china-5000867
+
+12. Siltronic raises its 2026 outlook as semiconductor-wafer demand improves
+German silicon-wafer supplier Siltronic reported third-quarter 2026 sales of €355.4 million, up 10.5% from the previous quarter, and slightly raised its full-year sales and EBITDA-margin outlook. The company attributed the stronger wafer volumes partly to demand linked to AI, with higher sales of both 300 mm and 200 mm wafers, while also noting favourable currency effects and ongoing cost pressures. The results offer another indication that AI infrastructure investment is feeding through to semiconductor materials suppliers, although Siltronic's overall profitability remains affected by depreciation and capacity-expansion costs.
+
+Source:
+https://www.siltronic.com/en/press/press-releases/siltronic-slightly-raises-sales-guidance-for-2026-higher-demand-drives-volume-development-in-q3-2026.html
+
+13. Sequoia Capital says it will close its London office and return to a flatter structure
+Sequoia Capital said it is closing its London office and will support European founders from its Bay Area base, describing the change as part of an effort to simplify a structure built through two decades of international expansion. Reuters also reported the firm's statement that it had raised about $10 billion in new funds, without specifying the period covered. The decision is a setback for London's ambitions to attract more technology and AI venture funding locally, but Sequoia said it still expects to back European founders without maintaining a local office.
+
+Source:
+https://www.reuters.com/business/sequoia-capital-close-london-office-raises-about-10-billion-new-funding-2026-11-04/
+
+14. Report: Oracle cancels a proposed $7 billion AI-chip lease with Tencent
+The Financial Times reported on 4 November that Oracle had cancelled a proposed five-year agreement that would have given Tencent access to as many as 100,000 advanced AI chips through data centres in Southeast Asia, following concerns raised by US officials. Reuters reported the claim but said it could not independently verify the cancellation; Oracle, Tencent and the White House did not immediately respond to requests for comment. If confirmed, the move would underline how export controls and geopolitical pressure can shape access to overseas AI compute, but the reported cancellation should not be treated as an independently confirmed fact.
+
+Sources:
+https://www.reuters.com/world/china/oracle-abandons-7-billion-ai-tencent-deal-under-trump-pressure-ft-reports-2026-11-04/
+https://www.ft.com/content/c5a6a738-cd78-4a8e-a814-57a7473ebb9c
+
+WHAT TO WATCH
+
+- NPCI Tech Solutions Limited's first projects, governance arrangements and technology roadmap across AI, blockchain and digital public infrastructure.
+  Source: https://www.reuters.com/world/india/indias-payments-authority-npci-forms-unit-push-into-ai-blockchain-tech-2026-11-04/
+
+- Whether banks and fintech firms translate the I4C-CERT-In warning into stronger API controls, transaction limits and faster incident reporting.
+  Source: https://www.reuters.com/legal/government/india-cybercrime-agency-warns-financial-firms-ai-attacks-2026-11-04/
+
+- VISTAR's implementation details, especially how AI-ready datasets, privacy-by-design and state-level statistical capacity will be delivered.
+  Source: https://www.pmindia.gov.in/en/news_updates/cabinet-approves-viksit-bharat-initiative-for-statistical-transformation-analytics-research-vistar-a-central-sector-scheme-for-the-period-2026-27-to-2030-31/
+
+- Tencent's planned publication of Hy4 model weights and its safety-testing report.
+  Source: https://www.reuters.com/legal/litigation/tencent-rolls-out-ai-model-trained-with-limited-cybersecurity-data-amid-hacking-2026-11-04/
+
+- The EU Chip Design Platform's first grant and startup-support allocations, and whether they help European firms reach commercial silicon production.
+  Source: https://digital-strategy.ec.europa.eu/en/news/eu525-million-investment-set-drive-new-generation-european-chip-design-companies
+
+SOURCES & VERIFICATION NOTE
+Coverage window: 00:00 to 23:59 IST on 4 November 2026. Prepared on 5 November 2026. Government announcements and company releases were prioritised, with Reuters and established technology and business publications used for additional reporting. Available publication times were normalised to IST; stories with known timestamps after midnight on 5 November IST were excluded. Nooks' $500 million arrangement is described as a growth-capital commitment, not a conventional equity round. VISTAR, critical-mineral processing and grid-storage items are Cabinet approvals and planned programmes, not completed infrastructure. Siltronic's outlook and Sentra's growth claims are company-reported. The Oracle–Tencent cancellation remains an attributed Financial Times report that Reuters said it could not independently verify. No item is presented as a confirmed deployment or outcome where the source only describes a proposal, target or company claim.
+
+END OF BRIEFING
