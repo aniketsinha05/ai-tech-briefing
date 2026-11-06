@@ -1,0 +1,104 @@
+AI & TECH DAILY BRIEFING
+Coverage date: Thursday, 5 November 2026 (India Standard Time)
+Prepared: Friday, 6 November 2026
+
+EDITOR'S NOTE
+This briefing covers 15 developments announced, published, or occurring within 5 November 2026 in India Standard Time: four from India and eleven from the global technology sector. The date check uses the underlying announcement or event time where it is available, rather than relying only on the date displayed by an overseas publisher. Two semiconductor earnings releases dated 4 November in the United States are included because their scheduled publication times fell after midnight on 5 November in India. Company claims, funding announcements, forward-looking targets and reported transaction details are attributed; proposals and planned deployments are not presented as completed outcomes.
+
+INDIA: AI & TECH
+
+1. India plans to require state utilities to add energy storage
+Power Secretary Pankaj Agarwal said at the Bharat Renewable Energy Summit that India will soon require state power utilities to add energy-storage capacity, helping shift surplus daytime clean electricity into evening and night-time demand. He did not specify the required capacity or a compliance timetable, but said further tenders involving storage were being prepared. The policy addresses a growing grid-balancing problem as renewable generation expands; it is an announced requirement in development, not evidence that storage projects have already been procured or installed.
+Source:
+https://www.reuters.com/business/energy/india-mandate-energy-storage-state-power-utilities-power-secretary-says-2026-11-05/
+
+2. IISc spinout Venomics AI raises $2.7 million for AI-assisted drug discovery
+Bengaluru-based Venomics AI raised a $2.7 million pre-seed round co-led by Speciale Invest and South Park Commons, with Operators Studio also participating. The Indian Institute of Science spinout combines venom biology, molecular sequencing, AI-based candidate prioritisation and laboratory screening, and is building a dataset called the Venom Atlas to connect venom-derived molecules with experimental results. The funding is intended to expand that dataset and strengthen lab validation; the platform is an early-stage discovery effort, not evidence that a treatment has been clinically validated.
+Sources:
+https://entrackr.com/snippets/bio-tech-startup-venomics-ai-raises-27-mn-in-pre-seed-round-12785718
+https://www.business-standard.com/amp/companies/news/venomics-ai-raises-2-7-million-to-discover-drugs-from-animal-venom-126110501178_1.html
+
+3. Cosmoserve Space opens Hyderabad facility for orbital servicing and debris removal
+Hyderabad-based Cosmoserve Space unveiled Base 1, a facility designed to support spacecraft rendezvous and capture simulations, space robotics development, satellite integration and mission control. The company also announced a $6 million seed round led by Japan's Rebright Partners, alongside Indian investors, taking its disclosed funding above $9 million. The facility is intended to support active debris removal and satellite servicing, including in-orbit repairs and refuelling; the startup is targeting a first commercial mission in 2028, so those services remain under development.
+Source:
+https://www.business-standard.com/companies/start-ups/cosmoserve-unveils-hyderabad-facility-for-space-debris-removal-refuelling-126110501673_1.html
+
+4. altM raises $10.3 million to scale chemicals made from agricultural residue
+Bengaluru cleantech company altM announced a $10.3 million Series A led by Rainmatter by Zerodha and Mela Ventures, with existing investors also participating. Its process converts lignocellulosic agricultural residue, including sugarcane bagasse and rice straw, into specialty chemicals and biomaterials for uses such as personal care, textiles, packaging and industrial products. The company says the capital will expand manufacturing, research and development, customer qualification and commercial teams as it moves beyond pilot-scale production; commercial capacity and customer adoption remain future milestones.
+Sources:
+https://www.altm.bio/blogs/altm-raises-10-3-million-to-scale-production-of-specialty-chemicals-from-agricultural-residue
+https://india.entrepreneur.com/business-news/altm-raises-usd-10-3-million-in-series-a
+
+GLOBAL AI & TECHNOLOGY
+
+5. OpenAI releases GPT-6 Cyber for vetted security researchers
+OpenAI introduced GPT-6 Cyber, a cybersecurity-focused model designed to find and validate exploitable vulnerabilities while following the scope set by authorised researchers. The company says the model identified 81 previously unknown high-severity Firefox vulnerabilities and helped develop 948 Linux privilege-escalation exploits, with candidate fixes and disclosures shared with maintainers; Mozilla has released fixes for many of the Firefox issues. Initial access is limited to approved Daybreak Red customers, so this is not a general consumer model release, and the vulnerability counts and benchmark results are OpenAI-reported.
+Sources:
+https://openai.com/index/introducing-gpt-6-cyber/
+https://www.reuters.com/technology/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating-2026-11-05/
+
+6. ORNL, IBM and AMD deploy a quantum error-correction co-design platform
+The U.S. Department of Energy's Quantum Science Center at Oak Ridge National Laboratory, IBM and AMD launched a platform that brings quantum processors and high-performance classical computing together for quantum error-correction research. The installation pairs IBM Quantum Nighthawk processors with ORNL's Umbra system, which uses AMD Instinct MI355X GPUs and fifth-generation EPYC CPUs, in a co-located environment designed for low-latency quantum-classical work. The goal is to let researchers develop and test error-correction decoders and hybrid workflows without assembling the infrastructure themselves; it is a research platform, not a claim that fault-tolerant quantum computing has been achieved.
+Source:
+https://www.ibm.com/quantum/blog/ornl-amd-error-correction-co-design-platform
+
+7. Box introduces an AI workflow builder and new controls for enterprise agents
+At BoxWorks 2026, Box announced Box Architect, a tool intended to design, build and improve business workflows from plain-language goals, using enterprise content and existing permissions. It also introduced Box Context Retrieval with NVIDIA Nemotron models to help agents find relevant information in company files, alongside new threat-detection and agent-governance controls. Box says some agent-security controls are available now, while Architect and several threat-protection capabilities will roll out later; the announcement highlights the need to secure enterprise data as agents gain permission to take actions.
+Sources:
+https://blog.box.com/boxworks-2026-box-brings-frontier-ai-business-workflows-enterprise-context-and-control
+https://blog.box.com/box-unveils-next-generation-enterprise-ai-new-agentic-workflow-automation-and-advanced-threat
+
+8. Insurance AI startup Kalepa raises $75 million at a $470 million valuation
+Kalepa raised $75 million in a Series B led by Updata Partners, with existing investors IA Ventures and Inspired Capital participating, valuing the AI insurance platform provider at $470 million according to the company and Reuters. Its software supports commercial-insurance operations including underwriting, pricing and portfolio management, and the company says the volume of work processed on its platform quadrupled over the past year. Kalepa plans to expand its product suite and markets and double its workforce in 2027; reported productivity gains among customers are company-reported rather than independently audited industry-wide results.
+Source:
+https://www.reuters.com/legal/transactional/ai-powered-insurance-startup-kalepa-valued-470-million-new-funding-round-2026-11-05/
+
+9. Nyquis raises $6.3 million to monitor electricity-grid faults
+U.S. startup Nyquis raised $6.3 million in seed funding co-led by Gigascale Capital and South Park Commons to expand its grid-monitoring technology. Its Nyquis Node is installed at substations and analyses high-resolution electrical signals to detect problems such as branches contacting power lines, deteriorating connections and faults that conventional equipment may miss. The company says its first deployment with Otero County Electric Cooperative detected dozens of potential issues during a windstorm; the new funding is intended to develop sensors and capacity-planning products for utilities.
+Source:
+https://www.axios.com/2026/11/05/nyquis-seed-grid-monitoring
+
+10. UK backs Potential Sciences' physics-based AI approach to drug discovery
+The UK government's Sovereign AI fund announced investment and access to national supercomputing resources for Potential Sciences as the British startup disclosed an eight-figure funding round. The company is developing AI methods based on physics-driven molecular simulation, aiming to generate useful synthetic data for predicting how candidate molecules interact with disease-related proteins rather than relying only on the limited record of past laboratory experiments. Potential Sciences says its approach could make some calculations around 100 times cheaper, but that is a company estimate; the approach still needs scientific validation and does not remove the clinical testing required for new medicines.
+Source:
+https://www.gov.uk/government/news/sovereign-ai-puts-cash-and-compute-behind-uk-startup-using-ai-to-redefine-chemistry
+
+11. METR study estimates faster AI-driven progress at Anthropic, with significant uncertainty
+AI safety nonprofit METR published an independent assessment based on an 11-week review of Anthropic's internal research and performance data from August to October. METR estimated that benchmark capabilities of Anthropic's models had improved at about 1.9 times the rate seen before October 2025, with a 95% confidence interval of 1.5 to 2.8 times, and judged that AI use likely explains a substantial share of the current acceleration. The report stresses that much of the most informative evidence was redacted, that the estimate is uncertain and benchmark-specific, and that AI was mainly assisting researchers rather than autonomously conducting the most important stages of model training.
+Sources:
+https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/
+https://www.reuters.com/technology/anthropics-models-improving-nearly-twice-fast-with-help-ai-study-finds-2026-11-05/
+
+12. Nvidia H200 chips accumulate in Hong Kong as Beijing withholds broad import approval
+About 600,000 of Nvidia's H200 AI processors are stored in Hong Kong awaiting approval for large-scale shipment to mainland China, according to people cited by Reuters. Some smaller quantities have reportedly entered China through authorised and indirect channels, but Beijing has not approved bulk imports, reflecting tension between Chinese demand for advanced compute and concerns about reliance on U.S. technology. The stockpile figure is based on sources familiar with the matter, not a public inventory disclosure, and neither Nvidia nor the relevant Chinese agencies commented to Reuters.
+Source:
+https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05/
+
+13. China blocks SoftBank's planned $5.4 billion purchase of ABB's robotics business
+China's National Development and Reform Commission has prohibited SoftBank's planned acquisition of ABB's robotics division, ABB said on Thursday, according to Reuters. The decision is a setback to SoftBank's strategy to build a larger robotics and AI business and reflects growing scrutiny of cross-border deals involving sensitive technology and data. ABB and SoftBank said they remained in dialogue and were working on the transaction, so the deal's final outcome was still unresolved at the time of reporting.
+Source:
+https://www.reuters.com/business/media-telecom/china-blocks-softbanks-54-billion-takeover-abbs-robotics-division-ft-reports-2026-11-05/
+
+14. Arm reports record quarterly revenue as data-centre royalties double
+Arm reported second-quarter fiscal 2027 revenue of $1.443 billion, up 27% year over year, with licensing revenue up 50% and royalty revenue up 8%. In its shareholder letter, the company said royalties from data-centre deployments doubled year over year and that Arm-based server share at leading hyperscalers had risen above 50% in calendar 2025. The results underline how AI infrastructure is increasing demand for power-efficient CPUs as well as accelerators, although market-share and future-revenue expectations in the letter are Arm's own estimates.
+Sources:
+https://investors.arm.com/financials/quarterly-annual-results
+https://investors.arm.com/static-files/0b5baa2e-fc47-4d05-b724-e49de7bd4356
+
+15. Qualcomm reports weaker handset revenue while targeting AI data-centre growth
+Qualcomm's fiscal fourth-quarter 2026 results showed GAAP revenue of $10.32 billion, down 8% year over year, while handset revenue fell 26%; automotive revenue rose 89% to nearly $2 billion. The company also announced a multi-generational product collaboration with Amazon for AI data centres and reiterated a $5 billion fiscal 2027 data-centre revenue target. The results show Qualcomm trying to diversify beyond smartphones as memory costs and handset demand pressure its traditional business; the data-centre target is forward-looking company guidance, not revenue already earned.
+Sources:
+https://www.sec.gov/Archives/edgar/data/804328/000080432826000127/qcom092726erex991.htm
+https://www.qualcomm.com/news/releases/2026/11/qualcomm-earnings-release-available-on-company-s-investor-relati
+
+WHAT TO WATCH
+- India's next storage tenders and the proposed storage requirement for state utilities: https://www.reuters.com/business/energy/india-mandate-energy-storage-state-power-utilities-power-secretary-says-2026-11-05/
+- Venomics AI's expansion of the Venom Atlas and the laboratory validation of its AI-ranked therapeutic candidates: https://entrackr.com/snippets/bio-tech-startup-venomics-ai-raises-27-mn-in-pre-seed-round-12785718
+- The rollout and independent security evaluation of GPT-6 Cyber, including disclosure and patching of the vulnerabilities it identified: https://openai.com/index/introducing-gpt-6-cyber/
+- Follow-up evidence on AI-assisted R&D acceleration and whether independent evaluators can assess more of the underlying data: https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/
+- China's H200 import decisions and the next step in the SoftBank-ABB robotics transaction: https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05/ ; https://www.reuters.com/business/media-telecom/china-blocks-softbanks-54-billion-takeover-abbs-robotics-division-ft-reports-2026-11-05/
+
+SOURCES & VERIFICATION NOTE
+Sources were checked against the publication or announcement date where possible, with primary company, government and research releases preferred and Reuters, Business Standard, Entrackr and Axios used for independently reported context. Company performance figures and forecasts are attributed to the relevant company; the METR estimate is presented with its stated uncertainty and redaction limitations. The Arm and Qualcomm results were released during the evening of 4 November in U.S. time zones, at 14:00 PT and 13:45 PT respectively, which places their releases after midnight on 5 November in India Standard Time. The Vi Intelligence launch and CERT-In advisory CIAD-2026-0058 were dated 4 November in the source material and were therefore not counted as 5 November developments, despite follow-up coverage appearing on 5 November. Google's Wyoming data-centre announcement was published after midnight on 6 November IST and was also excluded. No item is intended to imply that a planned facility, target capacity, funding commitment or model capability has already delivered its projected outcome.
+
+END OF BRIEFING
