@@ -1,0 +1,110 @@
+AI & TECH DAILY BRIEFING
+Coverage date: Friday, 6 November 2026 (India Standard Time)
+Prepared: Saturday, 7 November 2026
+
+EDITOR'S NOTE
+This briefing covers developments announced, published, or occurring on 6 November 2026 in India Standard Time. Where a report describes a proposal, planned investment, private discussion, market reaction, or forward-looking target, that status is made explicit. Company claims, estimates and unnamed-source reporting are attributed; they should not be treated as independently confirmed outcomes. The Teleperformance results announcement was issued on 5 November, but its share-price reaction occurred on 6 November and is covered as a market development.
+
+INDIA: AI & TECH
+
+1. India opens the Semicon 2.0 application portal and clears 12 more electronics projects
+The government opened applications under the ₹1.275 lakh crore Semicon India 2.0 programme and approved 12 additional projects under the Electronics Components Manufacturing Scheme (ECMS). The new ECMS tranche represents ₹7,503 crore in proposed investment, with projected production of ₹39,045 crore and 7,127 direct jobs; the approvals take the total number of ECMS projects to 118. The Semicon 2.0 portal covers semiconductor equipment and materials, new fabrication units, and expansion of assembly, testing, marking and packaging (ATMP) and outsourced semiconductor assembly and test capacity. The minister said applications must be complete, signalling a tighter screening approach as India tries to build a deeper supply chain beyond final-device assembly.
+Sources:
+https://www.business-standard.com/industry/news/govt-clears-12-ecms-projects-launches-application-portal-for-ism-2-0-126110601795_1.html
+https://electronics.economictimes.indiatimes.com/amp/news/leadership-strategy/centre-launches-semicon-2-0-portal-expects-new-ecms-projects-to-create-over-7000-jobs-s-krishnan/135600064
+
+2. Coforge joins SpaceX's partner network to take Grok into enterprise production
+Coforge announced that it had joined the SpaceX Super Intelligence (SpaceXSI) Partner Network as a Transformation Partner. It plans to integrate the Grok portfolio into enterprise workflows through its Momentuum blue forward-deployed engineering unit, combining engineers and AI agents with Coforge's Nuuron enterprise AI suite and industry-specific delivery teams. The announcement did not disclose financial terms, named customers or a deployment timetable, so the commercial impact will depend on whether the proposed integrations reach production and deliver measurable results.
+Sources:
+https://news.coforge.com/newsroom/press-release/coforge-joins-spacex-super-intelligence-partner-network-to-take-grok-into-enterprise-production
+https://www.reuters.com/business/media-telecom/indias-coforge-joins-spacex-partner-network-deploy-grok-ai-tools-enterprises-2026-11-06/
+
+3. Wipro brings back Angan Guha to lead its Americas 2 business
+Wipro appointed former Birlasoft chief executive Angan Guha as president and CEO of its Americas 2 strategic market unit, effective 8 December. Guha previously spent more than two decades at Wipro, including a prior leadership stint in the same unit, and will report to CEO Srini Pallia as a member of the executive leadership team. The unit serves clients in the United States and Canada across areas including banking and financial services, energy and utilities, and manufacturing; the appointment comes as Wipro seeks to strengthen growth in a major market.
+Source:
+https://www.reuters.com/world/india/indias-wipro-appoints-angan-guha-lead-americas-2-unit-2026-11-06/
+
+GLOBAL AI & TECHNOLOGY
+
+4. Japan approves an emergency cybersecurity package that includes AI-assisted defence
+Japan announced a 10 billion yen (about $63 million) emergency cybersecurity package after a wave of data breaches affected companies and government agencies. The measures include public-private cyber-rescue teams, stronger active cyber-defence capabilities and a specialist team of cybersecurity experts that the economy ministry plans to establish by the end of November; that team is expected to use AI to identify network weaknesses and help counter attackers. The package is a response to reported incidents rather than evidence that the new capabilities are already operational.
+Source:
+https://apnews.com/article/japan-government-takaichi-cybersecurity-package-cyberattack-8ba038fde849e7ea9c49126ecd770972
+
+5. Ro launches an AI-powered healthcare research unit using real-world patient data
+US telehealth company Ro said it is launching a research unit that will use AI to analyse data generated through its digital-health platform and study treatment outcomes. The company says the work could help drugmakers identify which patients benefit from particular treatments and give insurers more evidence when assessing coverage of expensive medicines; Ro said it is already discussing potential partnerships with pharmaceutical manufacturers. The value of such research will depend on data quality, appropriate consent and privacy safeguards, and whether findings are independently validated.
+Source:
+https://www.reuters.com/legal/litigation/ro-launches-healthcare-research-unit-plans-offer-data-drugmakers-2026-11-06/
+
+6. US Democrats outline a broad AI legislative agenda for when they take control of Congress
+Democratic lawmakers, aides and advocates told Reuters they are preparing bills for the new Congress in January that would address AI model safety testing, liability for harm caused by AI systems and electricity costs associated with data centres. The proposals could also bring more hearings and scrutiny of major AI developers, but they have not been introduced or enacted and would face resistance from President Donald Trump. The shift matters because congressional oversight and the prospect of future rules could influence how AI companies assess safety, deploy infrastructure and plan investment even before legislation passes.
+Source:
+https://www.reuters.com/business/media-telecom/democrats-planning-flood-ai-bills-when-they-take-control-congress-2026-11-06/
+
+7. White House postpones a meeting of its high-profile science and technology advisory panel
+The Trump administration postponed a scheduled meeting of the President's Council of Advisors on Science and Technology, whose members include Nvidia CEO Jensen Huang, Meta CEO Mark Zuckerberg, AMD CEO Lisa Su and Oracle CTO Larry Ellison. The panel was expected to advise the administration's new AI task force, but the Energy Department did not provide a reason for the postponement and later withdrew a briefly posted replacement date. The delay leaves uncertainty around the timing of advice from senior technology executives as Washington debates AI safeguards, infrastructure and the economic returns on large-scale investment.
+Source:
+https://www.reuters.com/world/us/trump-administration-scraps-meeting-panel-that-includes-metas-zuckerberg-nvidias-2026-11-06/
+
+8. Equinix opens its sixth Singapore data centre with AI-ready capacity
+Equinix announced the opening of SG6, its sixth International Business Exchange data centre in Singapore, with an initial investment of about $290 million. The first phase provides 8 MW of capacity and around 1,550 cabinets, while the company says the facility could reach up to 20 MW at full build-out; its design includes liquid cooling for high-density GPU workloads, with a target power-usage effectiveness of 1.20. The opening adds capacity in a major Asia-Pacific connectivity hub, although utilisation, customer demand and the facility's eventual energy performance will determine its commercial and sustainability impact.
+Source:
+https://investor.equinix.com/news-events/press-releases/detail/1130/equinix-opens-sg6-in-singapore-expanding-ai-ready-capacity
+
+9. Embodied AI unveils AIR, a wheeled humanoid designed for factory work alongside people
+Swiss robotics company Embodied AI unveiled AIR at Humanoid Europe 2026, presenting it as a humanoid robot for repetitive factory tasks that are difficult to automate with conventional fixed industrial systems. AIR uses wheels rather than legs and tendon-driven arms that the company says are designed to give way on contact; jobs initially begin under human control, with the system learning from recorded demonstrations. Embodied AI says the robot is being tested with manufacturers and that CE marking is planned for 2027, but its safety, reliability and task-learning claims still require validation in wider deployments.
+Source:
+https://www.businesswire.com/news/home/20261106661068/en/
+
+10. Advanced chip packaging emerges as a critical bottleneck in the AI hardware supply chain
+Reuters reported that demand for AI processors is driving a new investment race in advanced packaging, which connects processors and memory within high-performance chip systems. Taiwan's TSMC remains a leading supplier of chip-on-wafer-on-substrate packaging, but capacity constraints are pushing chip designers and suppliers to expand alternatives; an industry executive told Reuters that Nvidia is providing billions of dollars in financing to expand capacity at Siliconware Precision Industries (SPIL), a unit of ASE Technology. The financing details were not confirmed by Nvidia or ASE, while research firm Yole forecasts that advanced-packaging capital spending will approach $28 billion in 2026.
+Source:
+https://www.reuters.com/world/asia-pacific/ai-boom-turns-chip-packaging-into-next-battleground-semiconductors-2026-11-06/
+
+11. TSMC is reported to be exploring 3D DRAM production for the AI market
+Reuters, citing a report by The Information, said Taiwan Semiconductor Manufacturing Co has begun considering plans to make 3D DRAM at the request of its largest customer, Nvidia. Options reportedly include building new factories or acquiring and converting an existing facility, but no production start date has been identified and neither TSMC nor Nvidia immediately commented. If pursued, the move would take TSMC beyond its traditional focus on logic-chip fabrication and into a memory market facing tight supply from AI-related demand; the plan remains unconfirmed.
+Source:
+https://www.reuters.com/world/asia-pacific/tsmc-considers-making-advanced-memory-chips-information-reports-2026-11-06/
+
+12. China's YMTC targets up to 70% domestic equipment for a planned fourth memory-chip factory
+Yangtze Memory Technologies (YMTC), China's largest flash-memory maker, aims to source at least 60% and potentially 70% of the equipment for a planned fourth Wuhan factory from domestic suppliers, Reuters reported, citing people familiar with the matter. The plant is expected to make NAND chips with more than 300 stacked memory layers, aimed partly at data centres and AI storage, with construction expected to begin next year. Supplier discussions are still preliminary and no formal orders have been placed; YMTC would also remain dependent on foreign suppliers for some advanced tools such as lithography and inspection equipment.
+Source:
+https://www.reuters.com/world/china/chinas-top-flash-memory-chipmaker-targets-more-homegrown-tools-new-factory-2026-11-06/
+
+13. AI-investment concerns trigger a sharp selloff in Asian and European technology markets
+Technology shares fell sharply across Asia on Friday as investors reassessed the pace and profitability of AI infrastructure spending and the prospect of greater US regulatory scrutiny. South Korea's KOSPI fell as much as 8.8% intraday and triggered a trading halt before closing lower, while Japan's Nikkei fell about 6%; SoftBank shares dropped 10.8% and its five-year credit-default-swap spread reached a four-year high, according to Reuters. European shares also declined, with the STOXX 600 down about 1%, illustrating how concerns about data-centre financing, chip demand and future AI returns had spread beyond US technology stocks.
+Sources:
+https://www.reuters.com/world/asia-pacific/south-korea-stocks-plunge-8-circuit-breaker-triggered-chip-shares-tumble-2026-11-06/
+https://www.reuters.com/business/media-telecom/softbank-cds-softbank-cds-2026-11-06/
+https://www.reuters.com/markets/europe/european-shares-set-fall-global-ai-rout-gathers-pace-2026-11-06/
+
+14. Teleperformance shares slide after the company cuts its 2026 revenue outlook
+Teleperformance shares fell 15.3% on Friday, 6 November, after the digital-services group lowered its 2026 revenue outlook in a results update issued the previous evening. The company attributed the weaker outlook to a faster-than-expected decline in its Trust and Safety content-moderation business and broader industry headwinds, while reporting growth in AI-powered and back-office services; it said its 2026 recurring EBITA margin and free-cash-flow targets remained unchanged. The contrast illustrates how automation and changing outsourcing demand are reshaping service providers, but the share-price fall should be understood as the market's reaction on 6 November to the 5 November announcement.
+Sources:
+https://www.businesswire.com/news/home/20261105230586/en/
+https://www.reuters.com/markets/europe/european-shares-set-fall-global-ai-rout-gathers-pace-2026-11-06/
+
+WHAT TO WATCH
+
+- Semicon 2.0: Watch the first complete applications, project scrutiny and implementation milestones for the new semiconductor equipment, materials, fab and packaging pipeline.
+  Source: https://www.business-standard.com/industry/news/govt-clears-12-ecms-projects-launches-application-portal-for-ism-2-0-126110601795_1.html
+
+- Coforge and SpaceXSI: Watch for named enterprise customers, production deployments and evidence that Grok integrations deliver measurable business outcomes.
+  Source: https://news.coforge.com/newsroom/press-release/coforge-joins-spacex-super-intelligence-partner-network-to-take-grok-into-enterprise-production
+
+- Japan's cyber response: Track formation of the AI-assisted specialist team by the end of November and details of the public-private cyber-rescue model.
+  Source: https://apnews.com/article/japan-government-takaichi-cybersecurity-package-cyberattack-8ba038fde849e7ea9c49126ecd770972
+
+- US AI policy: Watch which model-testing, liability and data-centre energy proposals Democrats formally introduce after the new Congress convenes in January.
+  Source: https://www.reuters.com/business/media-telecom/democrats-planning-flood-ai-bills-when-they-take-control-congress-2026-11-06/
+
+- AI hardware supply: Follow whether TSMC advances its 3D DRAM plans, YMTC secures domestic equipment orders and advanced-packaging capacity expands enough to ease supply constraints.
+  Sources:
+  https://www.reuters.com/world/asia-pacific/tsmc-considers-making-advanced-memory-chips-information-reports-2026-11-06/
+  https://www.reuters.com/world/china/chinas-top-flash-memory-chipmaker-targets-more-homegrown-tools-new-factory-2026-11-06/
+  https://www.reuters.com/world/asia-pacific/ai-boom-turns-chip-packaging-into-next-battleground-semiconductors-2026-11-06/
+
+SOURCES & VERIFICATION NOTE
+Sources include official company announcements from Coforge and Equinix, an issuer release from Teleperformance, Associated Press, Reuters and established Indian business reporting. The coverage date was checked against announcement, event or market-session dates in India Standard Time. Proposals and planned projects are labelled as such; reports based on unnamed sources, including the TSMC and YMTC items, are not confirmed company commitments. Teleperformance's results update was issued on 5 November, so only the share-price reaction on 6 November is treated as a coverage-date development. Items announced on 5 November IST or after midnight on 7 November IST were excluded even when they appeared in later news roundups. Company forecasts, vendor claims and market estimates should not be read as independently verified outcomes.
+
+END OF BRIEFING
