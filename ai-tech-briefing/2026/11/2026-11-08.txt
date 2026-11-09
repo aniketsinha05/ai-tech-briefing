@@ -1,0 +1,80 @@
+AI & TECH DAILY BRIEFING
+Coverage date: Sunday, 8 November 2026 (India Standard Time)
+Prepared: Monday, 9 November 2026
+
+EDITOR'S NOTE
+This was a quieter Sunday for confirmed AI and technology developments than the usual 12–18-story target. Eight items passed the coverage-date check: three India stories and five global stories. The edition includes a mix of product updates, infrastructure plans and dated reporting; where an article revealed an earlier agreement or described a plan rather than a completed launch, that distinction is made explicit. No new MeitY/IndiaAI policy release or Indian AI-startup funding announcement could be verified for this coverage window.
+
+INDIA: AI & TECH
+
+1. Adani outlines ₹35,000–40,000 crore annual capex and completes Vizag data-centre park acquisition
+During its Q2 FY27 earnings call on 8 November, Adani Enterprises said it expects annual capital expenditure of ₹35,000 crore to ₹40,000 crore over the next couple of years, with airports, data centres and a proposed PVC complex among the main drivers. Management said AdaniConneX had more than 1.2 GW of contracted data-centre capacity and 94.6 MW operational, with around 500 MW targeted over the following 12–18 months; these are company-reported figures and forward targets. Separately, AdaniConneX completed its acquisition of 100% of Vizag Mega Data Center Park Limited on 8 November; the earlier exchange filing valued the deal at ₹1,085.51 crore and said the target held land and licences but had not begun commercial operations, so the acquisition adds a development asset rather than live compute capacity.
+Sources:
+https://infra.economictimes.indiatimes.com/amp/news/urban-infrastructure/adani-enterprises-plans-35000-40000-crore-annual-capex-in-next-two-years/135652336
+https://www.bseindia.com/xml-data/corpfiling/AttachLive/5143cb57-7f56-4ad6-8714-61aa677d1cb2.pdf
+https://www.bazaarwatch.com/announcement/297610/adani-enterprises-limited-acquisition
+
+2. NSE adds natural-language stock discovery, AI summaries and MCP access to market data
+In a press release dated 8 November, the National Stock Exchange of India introduced the beta version of Market Lens across its website and mobile platforms, allowing users to build stock screens through natural-language queries. NSE also announced AI-assisted text and audio summaries of corporate announcements and access to exchange market data through compatible AI assistants, including ChatGPT and Claude, using the Model Context Protocol (MCP). The features are in beta; investors should continue to consult the original exchange filings rather than treating AI-generated summaries as substitutes for material disclosures.
+Source:
+https://noticeblue.com/circulars/63623f39-07e3-449d-8b15-44b769a11765
+
+3. Ciena expects deeper Indian network partnerships as AI data-centre demand grows
+In an interview published on 8 November, Ciena said it expects to deepen partnerships with Indian telecom operators and data-centre providers as AI clusters increase demand for high-throughput, low-latency optical networks. Asia-Pacific vice-president Amit Malik cited existing work with Constl, Lightstorm and CtrlS and argued that connecting new AI campuses may require purpose-built inter-data-centre networks rather than incremental upgrades to mobile infrastructure. This was a company outlook, not a newly signed contract or quantified Ciena investment; market-capacity and pipeline estimates in the report are attributed to Ciena.
+Source:
+https://www.financialexpress.com/business/news/ciena-looks-to-deepen-india-presence-as-ai-boom-drives-demand/4379471/
+
+GLOBAL AI & TECHNOLOGY
+
+4. Artificial Analysis releases Decision Index v2 with more private data and calibrated-confidence scoring
+Artificial Analysis published Decision Index v2 on 8 November, increasing the share of private datasets from 25% to 45% and replacing its headline metric with a Decision Score that combines correctness with calibrated confidence. The update adds a 1,500-document private benchmark and tests whether models remain consistent when equivalent questions are reworded; Drex Max v1.1 and GLiDE v1.2 led the decision-model category at 73, with Mammoth 27B at 72. The publisher reported a sharp cost-performance spread, including GPT-6 Luna (Max) at $1,530 per million tasks versus $102 for Drex Max v1.1, making the index useful for comparing accuracy, calibration, speed and cost while remaining a benchmark produced by its publisher.
+Source:
+https://artificialanalysis.ai/articles/decision-index-v2
+
+5. DeepSeek Harness republishes usage figures in English and spotlights community plugins
+The DeepSeek Harness team republished its first usage figures in English on its official account on 8 November and highlighted four community plugins: a media-production desk, a design and copy tool, a context inspector and a research-paper reader. The underlying figures—1.54 million daily active API users and roughly 92 trillion tokens per day—were measured as of 4 November and first published on 5 November, so they are not new 8 November usage data. The update directs developers to a GitHub topic for plugin discovery while the team says an official marketplace and further plugin-API stability and security work are still planned.
+Sources:
+https://x.com/DeepSeekHarness/status/2119431663642153128
+https://github.com/topics/dsh-plugin
+
+6. OpenAI Codex lead clarifies usage multipliers across Pro subscription tiers
+On 8 November, OpenAI Codex lead Thibault Sottiaux wrote that Pro 100, Pro 200 and Pro 500 provide 10x, 20x and 50x the Plus usage respectively, and that Pro 500 includes Ultrafast mode. OpenAI's public pricing and help pages list the subscription tiers but do not publish absolute weekly quotas or those multipliers, so the figures should be read as an executive's relative usage clarification rather than a fixed token or message guarantee. The distinction matters to developers comparing plan value and planning usage-sensitive workflows.
+Sources:
+https://x.com/thsottiaux/status/2119296267545419987
+https://chatgpt.com/pricing/
+https://help.openai.com/en/articles/9793128-what-is-chatgpt-pro
+
+7. Reuters reports Anthropic's $3.4 billion generator commitment for AI data centres
+Reuters reported on 8 November, citing the Financial Times, that Anthropic agreed in late September to pay about $3.4 billion for commitments to 1.7 GW of Caterpillar gas-fired generators from OnePWR Solutions, along with engineering and construction capabilities needed for installation. Reuters said it could not independently verify the report, and Anthropic and OnePWR did not respond to requests for comment; the reported arrangement does not involve buying OnePWR or transferring its employees. The disclosure shows AI labs reaching beyond chips and cloud contracts to secure power equipment directly, but the reported agreement itself predates this briefing's coverage date.
+Sources:
+https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/
+https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0
+
+8. Amazon's renewed home-robotics effort emerges in report on a new Personal Robotics Group
+CNBC reported on 8 November, based on job postings and interviews, that Amazon has assembled a Personal Robotics Group and is recruiting for a “new-to-world” home robot intended to operate in dynamic household environments. The effort draws on personnel from the Astro team, Amazon's Fauna Robotics acquisition completed in March, and an MIT roboticist; Amazon has not announced a finished product, price or launch date. The report signals a renewed consumer-robotics bet, but reliable navigation, manipulation, safety and affordability in real homes remain unsolved commercial tests.
+Source:
+https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html
+
+WHAT TO WATCH
+
+- AdaniConneX capacity conversion: Watch whether contracted data-centre capacity becomes commissioned and billable capacity, and how the Vizag land-and-licence asset progresses toward construction.
+  Source: https://infra.economictimes.indiatimes.com/amp/news/urban-infrastructure/adani-enterprises-plans-35000-40000-crore-annual-capex-in-next-two-years/135652336
+
+- NSE Market Lens and AI summaries: Track the beta rollout, summary accuracy, MCP access controls and whether the exchange publishes guidance on using AI-generated interpretations of corporate disclosures.
+  Source: https://noticeblue.com/circulars/63623f39-07e3-449d-8b15-44b769a11765
+
+- DeepSeek's plugin marketplace: Watch for the promised official marketplace, documented permissions and security controls for third-party plugins.
+  Source: https://x.com/DeepSeekHarness/status/2119431663642153128
+
+- Anthropic's power procurement: Look for confirmation of the reported generator commitments, installation timelines and how the company addresses emissions and gas-supply exposure.
+  Source: https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/
+
+- Amazon's home robot: Watch for a prototype, clearer product scope and evidence that the Personal Robotics Group can move beyond Astro's limited consumer use case.
+  Source: https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html
+
+SOURCES & VERIFICATION NOTE
+The coverage window is 00:00–23:59 India Standard Time on 8 November 2026. The date attached to each development was checked separately from the date of any underlying transaction or earlier product launch. The Adani capex guidance was given during the 8 November earnings call, and the Vizag acquisition completion was disclosed to the exchanges that day; the purchase agreement itself had been signed earlier. NSE's feature release is dated 8 November. Ciena's item is an interview and company outlook, not a new contract. Artificial Analysis dated its index release 8 November. DeepSeek's English-language plugin post is dated 8 November, while its usage figures refer to 4 November and were first published on 5 November. The OpenAI usage multipliers are from a public post by its Codex lead; the company's published pricing/help pages do not specify absolute quotas. The Anthropic generator arrangement was reportedly agreed in late September and was disclosed in reporting on 8 November; Reuters explicitly said it could not independently verify the report. CNBC's Amazon story was published on 8 November and is based partly on job postings; it does not announce a shipping product.
+
+Several apparent same-day roundups were excluded after checking the India-time window: reports timestamped after 18:30 UTC on 8 November fall on 9 November IST, including the Reuters report on an Nvidia board inquiry and late-US political comments; the Reserve Bank of Australia remarks were also scheduled for 9 November in Sydney. The UK data-centre policy interview was published on 7 November, and the OpenCode free Inkling 2 Small listing was first observed on 7 November IST, not 8 November. Older AI research and launch items from 5 November or earlier were not carried forward. Company figures, benchmark results, market estimates and forward-looking targets remain attributed to their sources and should not be treated as independently audited outcomes.
+
+END OF BRIEFING
