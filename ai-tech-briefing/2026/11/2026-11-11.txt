@@ -1,0 +1,121 @@
+AI & TECH DAILY BRIEFING
+Coverage date: Wednesday, 11 November 2026 (India Standard Time)
+Prepared: Thursday, 12 November 2026
+
+EDITOR'S NOTE
+This edition covers developments announced, released, or reported during 11 November 2026 in India Standard Time. It contains 16 items: four India developments and 12 global developments. The coverage-date check matters: several widely circulated stories were announced on 9 or 10 November, or were published after midnight in India, and are not presented as 11 November news. Company performance claims, funding figures and future product plans are attributed to their sources.
+
+INDIA: AI & TECH
+
+1. India reports a sharp reduction in villages without 4G coverage
+The Department of Telecommunications said the number of Indian villages without 4G connectivity had fallen from 45,180 in 2022 to 11,372 in 2026, a reduction of nearly 75%. The government reported that 18,291 BSNL sites had been commissioned under the 24,680-site 4G Saturation Project, and that it had sanctioned another 26,000 mobile sites for the next phase. The figures underline the infrastructure needed to extend digital public services, education and commerce to remote communities; the remaining gaps are concentrated in difficult terrain and scattered settlements.
+Source:
+https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2335141&lang=1&reg=1
+
+2. India calls for cross-border cooperation on cyber fraud and digital infrastructure security at ITU
+At the ITU Plenipotentiary Conference in Doha, Minister of State for Communications Chandra Sekhar Pemmasani called for greater cooperation against cross-border cyber fraud and for developing countries to have a stronger voice in setting technology standards and spectrum policy. The Ministry of Communications said he highlighted India's digital fraud alert system, which he said had helped prevent suspected financial losses exceeding ₹5,000 crore, and discussed cybersecurity and quantum technology with delegations from Malaysia, Iran and Uzbekistan. The remarks connect India's domestic anti-fraud work with a broader international challenge involving spoofed calls, messaging scams and the security of digital infrastructure.
+Source:
+https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2335168&lang=1&reg=3
+
+3. Reuters investigation exposes website-blocking orders based on forged Indian court documents
+Reuters reported on 11 November that India's Department of Telecommunications had directed internet providers to block 129 betting websites using two purported High Court orders that Reuters found were forged. The Rajasthan High Court registrar said one order appeared fraudulent, while the Allahabad High Court confirmed that the order attributed to it was fake and had filed a police complaint on 6 November; an investigation into alleged forgery and cheating is under way. The case raises questions about verification safeguards in India's online content-removal process, since forged legal documents could potentially be used to trigger government blocking action against legitimate websites.
+Source:
+https://www.reuters.com/world/india-ordered-website-takedowns-fake-court-orders-reuters-finds-police-launch-2026-11-11/
+
+4. India's AI startup funding is rising, but investment is concentrated in a few large rounds
+An Economic Times analysis published on 11 November, citing Tracxn data, said Indian AI startups raised $1.6 billion across 81 funding rounds in the first nine months of 2026, compared with $677 million a year earlier. The number of rounds fell 43%, while four large transactions in AI infrastructure, foundation models and AI app-building accounted for 72% of the funding; application startups raised less than in the comparable period, with vertical AI funding particularly weak. The figures suggest that India's AI capital cycle is increasingly favouring compute and model infrastructure over a broad base of application companies, making customer adoption and revenue conversion important tests for the next phase.
+Sources:
+https://economictimes.indiatimes.com/ai/ai-insights/bigger-cheques-fewer-winners-in-indias-ai-boom/articleshow/135728981.cms
+https://www.tracxn.com/
+
+GLOBAL AI & TECHNOLOGY
+
+5. Databricks turns Genie into an always-on autonomous enterprise agent
+Databricks announced the second generation of Genie on 11 November, positioning it as an always-on agent that can manage long-running work, delegate tasks to subagents, track progress and request human decisions when needed. The release also introduces Genie Ontology to maintain business context across data, people and processes, while Genie Search is designed to reach more than 100 enterprise data sources, including Google Drive, Jira and Confluence. The product signals a shift from question-answering assistants toward agents that take responsibility for multi-step workflows, although reliability, permission handling and measurable productivity will determine whether the approach works in production.
+Source:
+https://www.databricks.com/company/newsroom/press-releases/databricks-launches-new-always-genie-autonomous-ai-complex
+
+6. UK AI-chip startup Fractile raises $720 million at a reported $7 billion valuation
+Reuters reported on 11 November that London- and Bristol-based Fractile raised $720 million in a Series C round at a $7 billion valuation, with backing that includes Thrive Capital, Founders Fund, Lightspeed, Redpoint, CapitalG and Britain's Sovereign AI fund. Fractile is developing chips for AI inference, the stage at which trained models generate responses, and says its architecture can improve speed while reducing energy use and cost. The funding highlights investor interest in alternatives to dominant AI accelerator suppliers; Fractile's first commercial chip is planned for next year, so the technical and manufacturing milestones remain ahead.
+Source:
+https://www.reuters.com/legal/transactional/uk-backed-ai-chip-startup-fractile-hits-7-billion-valuation-funding-round-2026-11-11/
+
+7. Ocient secures $100 million to expand governed analytics for AI agents
+Chicago-based Ocient announced a $100 million Series C round co-led by BOKA Capital and OCA Ventures, bringing its total funding to $260 million, according to the company's release carried by The AI Insider on 11 November. The company says the capital will accelerate OcientAIQ, a platform intended to let AI agents and analysts query very large datasets with access controls, policy enforcement and data lineage built in. The funding reflects demand for infrastructure that can connect agentic AI to sensitive, high-volume enterprise data, although the company's revenue-growth expectations are forward-looking claims rather than independently verified results.
+Sources:
+https://theaiinsider.tech/2026/11/11/ocient-raises-100m-in-series-c-funding-to-advance-trusted-ai-solutions-for-petabyte-scale-environments/
+https://ocient.com/
+
+8. Runway releases Praxis-1 world-action model weights under Apache 2.0
+Runway made Praxis-1 available with open weights and code under the Apache 2.0 licence on 11 November, opening the model to robotics developers and researchers. The 27-billion-parameter model predicts video and actions together and is designed for tasks involving physical interaction; Runway says it has been tested by partners on a humanoid robot, an industrial arm and a dual-arm warehouse robot. The company reports a 46.2% success rate on NVIDIA's RoboLab-120 benchmark across 1,200 episodes, but independent replication and performance in real operating environments will be needed to assess the result.
+Source:
+https://runway.com/news/company-news/praxis-1-is-now-available
+
+9. Torus launches modular AI inference infrastructure and announces $500 million in growth capital
+Torus announced Foundry, a prefabricated system combining power, storage, cooling, networking and compute for AI inference deployments, alongside $500 million in growth capital led by Magnetar. The company says individual sites can provide between 1 and 20 megawatts of capacity and can be brought online in 12–16 weeks by using existing grid interconnections and available power. The launch targets a central constraint in AI expansion—getting usable electricity and compute capacity online quickly—but the delivery timelines and capacity claims are company projections that will need to be demonstrated across customer deployments.
+Source:
+https://www.businesswire.com/news/home/20261111907147/en/Torus-Launches-Modular-AI-Infrastructure-Foundry-to-Meet-Surging-AI-Inference-Demand-and-Secures-%24500M-in-Funding
+
+10. Helix raises $6.2 million and launches voice-based human verification
+Helix announced a $6.2 million pre-seed round and said its voice-based identity and age-verification service is live with its first partners. The company says its system uses a short spoken challenge to distinguish people from bots and verify age on-device, without sending biometric data to its servers; it named Zeel as an early beta partner. The launch addresses growing concerns about synthetic accounts, impersonation and age assurance, but the effectiveness of voice biometrics against sophisticated spoofing and the privacy claims will need independent scrutiny.
+Source:
+https://www.prnewswire.com/news-releases/helix-secures-6-2-million-in-pre-seed-capital-and-launches-voice-based-human-verification-for-the-ai-era-302936742.html
+
+11. Google introduces Gemini Decisions API for high-volume multimodal evaluation
+Google announced the Gemini Decisions API, powered by a new Gemini Decision 1 model, on 11 November. The API is designed to evaluate up to 1,000 yes/no, multiple-choice or rubric-scored questions in a single pass across text, images, audio, video and PDFs. The product targets structured evaluation and decision workloads where organisations need to process many items consistently, though developers will need to test accuracy, calibration and cost against task-specific alternatives.
+Source:
+https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/
+
+12. Google names the first 10 startups in its Africa Applied AI Lab
+Google announced the inaugural cohort of 10 startups for its Africa Applied AI Lab on 11 November, offering participating teams access to Google AI models, technical mentorship and venture-capital guidance. The selected companies are working on applications including local-language voice services, offline health and education tools, agricultural advice based on satellite data, identity verification and satellite computing. The programme is intended to help African founders move locally relevant AI products toward scale; a demo day is planned for December, so the commercial outcomes remain to be seen.
+Source:
+https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/applied-ai-lab-cohort-2026/
+
+13. Google DeepMind unveils AlphaGenome 2 for cell-specific genetic research
+Google DeepMind announced AlphaGenome 2, a DNA-sequence model designed to predict how genetic variants affect different human cell types and states. The company says it was trained on more than 100 million cell profiles across 68 tissues and identifies nearly twice as many variants that change gene expression in cells as its previous model; it is available for non-commercial research through an API, with a private preview for commercial research. The model could help researchers connect genetic variation to disease mechanisms at cell level, but its performance claims and usefulness in biological discovery will need independent validation.
+Source:
+https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/
+
+14. IBM outlines Nighthawk r3 quantum processor and a path beyond 1,000 qubits
+IBM announced its next-generation Nighthawk r3 quantum processor on 11 November, designed to execute 10,000 quantum operations across 520 programmable qubits. The company also said it plans to connect two r3 processors into a 1,040-qubit system in 2027, while describing work on chip-to-chip interconnects and integration with classical high-performance computing. These are roadmap targets rather than a currently available 1,040-qubit machine; the important measure will be whether increased scale comes with better error performance and useful computations.
+Source:
+https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality%2C-with-plans-to-scale-beyond-1%2C000-qubits-in-2027
+
+15. Baidu releases ERNIE 5.5 Flash Preview with a one-million-token context window
+Baidu released ERNIE 5.5 Flash Preview on 11 November, describing it as a post-trained model built on its earlier ERNIE 5.5 Flash Base. Baidu lists 280 billion total parameters, 14 billion active parameters and a one-million-token context window, with intended strengths in coding, 3D modelling, knowledge work and content creation; API access is available through its Qianfan platform. The company says the weights will be released under Apache 2.0, but the model is still an intermediate checkpoint with post-training continuing, so its published capabilities should be treated as provisional.
+Source:
+https://ernie.baidu.com/release/ernie-5-5-flash-preview
+
+16. DeepL launches Aure to preserve tone and emotion in real-time voice translation
+DeepL unveiled Aure on 11 November, a new voice model for DeepL Voice that continuously analyses speech and adapts translated output to changes in a speaker's tone, emotion, emphasis and pace. The company says Aure is available automatically across its online-meeting, in-person conversation and voice API products, initially supporting eight languages including English, German, Spanish, French, Italian, Japanese, Portuguese and Korean. The release aims to preserve how someone speaks as well as the words they use, a potentially important improvement for multilingual meetings and customer interactions; quality across accents, noisy environments and languages will be key to evaluating it.
+Source:
+https://www.deepl.com/en/press-release/aure-voice-ai-model
+
+WHAT TO WATCH
+
+- India's rural 4G rollout: Watch whether the additional 26,000 sanctioned sites close the remaining coverage gaps, especially in remote and tribal areas.
+  Source: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2335141&lang=1&reg=1
+
+- Telecom fraud and forged takedown orders: Track the police investigation and any new verification requirements for government website-blocking directions.
+  Source: https://www.reuters.com/world/india-ordered-website-takedowns-fake-court-orders-reuters-finds-police-launch-2026-11-11/
+
+- Enterprise agents in production: Follow independent customer evidence on Databricks Genie and OcientAIQ, especially permissions, auditability and human approval.
+  Sources:
+  https://www.databricks.com/company/newsroom/press-releases/databricks-launches-new-always-genie-autonomous-ai-complex
+  https://theaiinsider.tech/2026/11/11/ocient-raises-100m-in-series-c-funding-to-advance-trusted-ai-solutions-for-petabyte-scale-environments/
+
+- AI inference hardware and power: Watch for Fractile's commercial-chip milestones and Torus customer deployments against their stated timelines.
+  Sources:
+  https://www.reuters.com/legal/transactional/uk-backed-ai-chip-startup-fractile-hits-7-billion-valuation-funding-round-2026-11-11/
+  https://www.businesswire.com/news/home/20261111907147/en/Torus-Launches-Modular-AI-Infrastructure-Foundry-to-Meet-Surging-AI-Inference-Demand-and-Secures-%24500M-in-Funding
+
+- Open models and scientific AI: Track independent tests of Praxis-1 and ERNIE 5.5 Flash, and reproducibility of AlphaGenome 2's cell-specific predictions.
+  Sources:
+  https://runway.com/news/company-news/praxis-1-is-now-available
+  https://ernie.baidu.com/release/ernie-5-5-flash-preview
+  https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/
+
+SOURCES & VERIFICATION NOTE
+The coverage window is 00:00–23:59 IST on 11 November 2026. Each item was checked against the dated announcement, publication or official release record. Where a story is a report about earlier-period data, such as India's first-nine-month AI funding figures, the underlying measurement period is stated rather than presented as a same-day event. The Sarvam leadership appointment was excluded because Sarvam's own announcement is dated 9 November; Australia's proposed frontier-AI safeguards and the PLI medical-device scheme changes were excluded because their official announcements were dated 10 November. Reuters' separate report on Australian job cuts attributed to AI was timestamped after midnight in India and was therefore outside this coverage window. Vendor benchmarks, funding details, claimed performance and forward-looking deployment schedules are attributed to the relevant companies or reporting outlets.
+
+END OF BRIEFING
