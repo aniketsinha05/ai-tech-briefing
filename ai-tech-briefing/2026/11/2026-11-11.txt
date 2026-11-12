@@ -24,9 +24,8 @@ https://www.reuters.com/world/india-ordered-website-takedowns-fake-court-orders-
 
 4. India's AI startup funding is rising, but investment is concentrated in a few large rounds
 An Economic Times analysis published on 11 November, citing Tracxn data, said Indian AI startups raised $1.6 billion across 81 funding rounds in the first nine months of 2026, compared with $677 million a year earlier. The number of rounds fell 43%, while four large transactions in AI infrastructure, foundation models and AI app-building accounted for 72% of the funding; application startups raised less than in the comparable period, with vertical AI funding particularly weak. The figures suggest that India's AI capital cycle is increasingly favouring compute and model infrastructure over a broad base of application companies, making customer adoption and revenue conversion important tests for the next phase.
-Sources:
+Source:
 https://economictimes.indiatimes.com/ai/ai-insights/bigger-cheques-fewer-winners-in-indias-ai-boom/articleshow/135728981.cms
-https://www.tracxn.com/
 
 GLOBAL AI & TECHNOLOGY
 
