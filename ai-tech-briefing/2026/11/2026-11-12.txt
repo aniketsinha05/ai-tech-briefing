@@ -1,0 +1,166 @@
+AI & TECHNOLOGY DAILY BRIEFING
+Coverage date: Thursday, 12 November 2026 (India Standard Time)
+Prepared: Friday, 13 November 2026
+
+EDITOR'S NOTE
+
+A busy day across India's AI stack and the global compute economy. India saw a meaningful expansion of API-level data localisation, a government-backed AI satellite programme, a proposed green hyperscale data centre, and fresh activity in enterprise technology and rehabilitation robotics. Globally, the biggest signals were the changing economics of inference, major infrastructure commitments, a formal industry consortium around open-source inference, and new legal and economic scrutiny of frontier AI.
+
+This edition contains 18 developments: five from India and 13 global. Announcements and company-reported figures are identified as such; planned investments, performance claims and forward-looking targets should not be read as completed deployments or independently verified results.
+
+INDIA: AI & TECH
+
+1. OpenAI brings API inference residency to India, beginning with GPT-6 Luna
+
+OpenAI announced that eligible businesses and developers can now have supported API requests processed and model inference performed on servers in India, extending its existing India data-residency offering beyond storage. The initial scope is narrow: direct API use of GPT-6 Luna through the Responses and Chat Completions APIs, with customers required to configure a new API project for India storage and processing and use the India regional endpoint; this is not a change to the consumer ChatGPT app. The move could help regulated organisations evaluate text-based AI workflows where data-location requirements have been a deployment barrier, although eligibility and API data-control requirements still apply.
+
+Sources:
+https://www.theweek.in/wire-updates/business/2026/11/12/openai-to-process-ai-requests-within-india-for-businesses-with-data-localisation-needs.html
+https://developers.openai.com/api/docs/guides/your-data?popup=false
+
+2. TDB backs Astrome's planned AI-enabled ELINT satellite constellation with ₹64.05 crore
+
+The Technology Development Board, under the Department of Science and Technology, signed an agreement to provide Bengaluru-based Astrome Technologies with ₹64.05 crore under the Research, Development and Innovation Fund for a project costing ₹128.11 crore. The proposed system combines electronic-intelligence payloads, AI-based ground-processing software and inter-satellite links on 50-kg-class low-Earth-orbit microsatellites, with the programme aiming to advance core technologies from TRL-4 towards TRL-9. It is a significant sovereign space-technology project, but the announcement describes a development and validation programme rather than an operational constellation already in orbit.
+
+Source:
+https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2335322&lang=2&reg=48
+
+3. ReNew announces an approximately ₹80,000-crore Andhra Pradesh investment plan, including a 1-GW green data centre
+
+ReNew said it plans to invest about ₹80,000 crore across digital infrastructure and clean-energy manufacturing in Andhra Pradesh. The largest component is a proposed 1-GW renewable-energy-powered hyperscale data centre in Anakapalli, with additional plans for polysilicon and metallurgical-silicon manufacturing and a permanent-magnet facility. If executed, the programme would connect India's growing data-centre demand with domestic clean-energy and solar supply chains; the figures are announced investment plans, not completed construction or commissioned capacity.
+
+Source:
+https://www.renew.com/press-release/renew-announces-inr-80-000-crore-investment-in-andhra-pradesh-across-green-data-centre-and-solar-manufacturing
+
+4. Costco signals a larger India technology footprint as its Hyderabad GCC expands
+
+Costco told Reuters that its Hyderabad global capability centre, which employs more than 70 people, is expected to grow to several hundred over the next five to six years, while the retailer sees scope to expand its technology presence beyond the city. The centre is working on AI, cybersecurity, data and analytics, enterprise software and digital advertising; Costco's chief information and digital officer said AI had delivered productivity gains of up to 60% in some projects and cited a Hyderabad-developed geofencing tool designed to speed store check-in and checkout. The comments illustrate how multinational GCCs are moving from support operations into product and engineering work, although Costco did not provide a fixed hiring target.
+
+Source:
+https://www.reuters.com/world/india/costco-eyes-broader-india-tech-footprint-ai-bets-grow-2026-11-12/
+
+5. 1Crowd backs Indian rehabilitation-robotics company Rymo
+
+Dealroom reported that Indian early-stage investor 1Crowd has backed Rymo Technologies, a health-tech company developing robotic and AI-driven physical-rehabilitation systems. Rymo's portfolio includes robotic rehabilitation equipment, balance-training systems and virtual-reality-based tools for neurological and orthopaedic recovery; the amount of the new investment was not disclosed. The opportunity is to make technology-assisted rehabilitation more accessible to smaller clinics and hospitals, but wider adoption will depend on clinical evidence, affordability and sustained deployment rather than the funding announcement alone.
+
+Sources:
+https://dealroom.co/news/172100-1crowd-leads-early-vc-round-in-india-s-rymo-technologies/
+https://www.rymo.in/
+
+GLOBAL AI & TECHNOLOGY
+
+6. NVIDIA announces Jensen Huang's departure and names Colette Kress interim CEO
+
+NVIDIA's board announced that Jensen Huang had resigned as president, CEO and a board member, effective immediately. Chief Financial Officer Colette Kress will serve as interim CEO while the board searches for a permanent successor, and Harvey C. Jones has been appointed the board's first chair; NVIDIA said it expects operations, customer commitments and its product roadmap to continue without interruption. The company's announcement did not state a reason for the departure, so the leadership change should be reported separately from speculation about its cause.
+
+Sources:
+https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition
+https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/default.aspx
+
+7. AMD expands its Instinct MI400 GPU family and publishes new inference results
+
+AMD announced updates across its Instinct MI400 portfolio, including additional details for the MI430X, new MI455X inference results on its Helios rack-scale system, and the introduction of the MI450X configuration. AMD's own Performance Labs reported 21,333 tokens per second per GPU on DeepSeek-R1 in an MLPerf Inference Offline configuration and said this was up to 30% higher throughput than NVIDIA's latest published Vera Rubin result; this is a vendor-reported comparison, not an independent conclusion that every workload will be faster. The announcement matters because competition is increasingly about complete rack-scale systems, memory and inference throughput, not just individual accelerator specifications.
+
+Source:
+https://newsroom.amd.com/news/amd-advances-instinct-mi400-series-ai-scientific-computing/
+
+8. LMSYS launches the SGLang Consortium with eight major AI and infrastructure companies
+
+LMSYS Org, the nonprofit behind the open-source inference engine SGLang, launched a consortium with NVIDIA, AMD, Intel, Google, Meta, Cloudflare, Modal and RadixArk as founding members. The group will work with SGLang maintainers on frontier-model support, reasoning and multimodal workloads, distributed inference and hardware optimisation, while the maintainers retain authority over technical decisions and code acceptance and the project remains open to the wider community. The initiative is notable because it creates a more formal channel for hardware vendors, model developers and inference operators to coordinate around software efficiency as inference becomes a larger share of AI compute.
+
+Sources:
+https://www.lmsys.org/blog/2026-11-12-sglang-consortium
+https://www.sglang.io/summit
+
+9. SpaceX outlines more than $74 billion for two AI supercomputing campuses
+
+SpaceX said it plans to invest more than $74 billion in supercomputing campuses at Starbase, Texas, and in Cochise County, Arizona, expanding a business whose AI segment generated more than half of its third-quarter revenue, according to Reuters. The company put the Texas project at more than $24 billion and the Arizona project at roughly $50 billion; the Arizona site still requires county approval, and the plans raise substantial questions around power supply, construction and local consent. The scale underscores how AI compute is becoming a central infrastructure business, but these are announced plans rather than operating facilities.
+
+Source:
+https://www.reuters.com/business/media-telecom/spacex-invest-over-74-billion-supercompute-facilities-texas-arizona-2026-11-12/
+
+10. Cerebras reports record third-quarter revenue and says 700 MW of data-centre capacity is under contract
+
+Cerebras reported third-quarter GAAP revenue of $210.8 million, up 55% year over year, and said it had 700 megawatts of data-centre capacity under contract as it expands its high-speed inference business. The company also raised its full-year 2026 outlook for its non-GAAP “Core” revenue measure to $940 million–$960 million; Core figures exclude specified items and should not be confused with GAAP revenue. The results provide a useful measure of demand for alternative AI-compute architectures, while the contracted capacity figure should not be mistaken for capacity already built and online.
+
+Source:
+https://investors.cerebras.ai/news-releases/news-release-details/cerebras-systems-delivers-record-revenue-third-quarter-2026
+
+11. Nebius cuts its 2026 revenue outlook after third-party data-centre delays
+
+AI cloud provider Nebius lowered its 2026 revenue forecast to $3.0 billion–$3.2 billion after some third-party capacity expected to come online this year slipped into the first half of 2027. Its third-quarter revenue of $981 million beat analyst estimates, but the company raised its spending outlook and said 75%–85% of its 2027 investment would be funded through customer prepayments and asset-backed financing. The update highlights a key constraint in the AI buildout: demand can remain strong while power, facilities and delivery schedules still limit how quickly cloud providers can turn demand into revenue.
+
+Source:
+https://www.reuters.com/technology/nebius-beats-quarterly-revenue-estimates-strong-ai-demand-2026-11-12/
+
+12. LangChain raises $300 million at a $3 billion valuation
+
+LangChain, whose tools help developers build and operate AI applications and agents, raised $300 million at a $3 billion valuation in a round led by Alphabet's CapitalG, with existing investors IVP and Sapphire Ventures and new investors GIC and DFJ Growth participating. The company is targeting enterprise agent development, with the funding expected to support expansion of LangSmith for monitoring, evaluating and deploying agents. The round is another sign that investors are backing the tooling and operational layers needed to make agents reliable in production, not only the foundation models themselves.
+
+Sources:
+https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad
+https://dealroom.co/news/172300-langchain-raises-300m-tripling-its-valuation-to-3b/
+
+13. Norwest raises its largest-ever $4 billion fund, with AI among its investment priorities
+
+Norwest announced Norwest 18, a $4 billion fund that takes the firm's total capital under management to $18 billion and will invest across technology, healthcare and consumer businesses in the United States, India and Israel. The firm has highlighted physical AI, voice AI, agentic cybersecurity and aerospace as areas of interest; its India head has separately said the firm expects to continue deploying roughly $250 million–$350 million annually in India, without ring-fencing that amount from the global fund. The fund is not exclusively an AI vehicle, but its size and stated priorities make it a meaningful signal for startup financing across AI and adjacent sectors.
+
+Sources:
+https://www.norwest.com/blog/norwest-18/
+https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/
+https://www.livemint.com/companies/norwest-doubles-down-on-india-with-largest-ever-fund-sees-opportunity-in-manufacturing-and-deeptech-11794475433282.html
+
+14. AMD plans an equity investment in PsiQuantum as the companies deepen their quantum-computing partnership
+
+AMD and PsiQuantum announced an expanded partnership to co-design the computing infrastructure needed for utility-scale, fault-tolerant quantum computers and hybrid applications combining quantum, high-performance and AI computing. AMD plans to contribute CPUs, GPUs, adaptive-computing technology and software, while PsiQuantum brings its photonic quantum platform; AMD's proposed equity investment amount was not disclosed. The companies said their initial application work includes computational chemistry and drug discovery, but practical, large-scale fault-tolerant quantum computing remains a longer-term engineering challenge.
+
+Sources:
+https://www.psiquantum.com/news-import/psiquantum-amd-partnership-future-of-computing
+https://www.reuters.com/business/amd-invest-psiquantum-advance-quantum-computing-infrastructure-2026-11-12/
+
+15. Nonprofits sue major AI developers, seeking to halt further frontier-model development
+
+A group of technology-accountability nonprofits sued OpenAI, Anthropic, SpaceX's AI division, Meta and Google in San Francisco, asking a court to block further development of the companies' most advanced AI models. The complaint argues that the companies' conduct creates a public nuisance under California law and cites concerns about potential harms from advanced systems; these are allegations by the plaintiffs, not findings by a court. The case could become an important test of whether existing consumer-protection and public-nuisance laws can be used to challenge frontier AI development in the absence of comprehensive federal legislation.
+
+Source:
+https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12/
+
+16. Federal Reserve Governor Michael Barr warns of possible serious AI-related job disruption
+
+Fed Governor Michael Barr said the United States should prepare for potentially serious short-term labour-market disruption if AI deployment accelerates, including the possibility of displacement at scale and widening inequality. Barr stressed that the outcome is uncertain and depends partly on whether AI becomes broadly accessible or whether its gains concentrate among a small group of firms and investors; he cited a 52.8% labour share of national income in the second quarter of 2026. These were Barr's remarks and risk assessment, not a formal Federal Reserve forecast or a claim that mass job losses have already occurred.
+
+Source:
+https://www.reuters.com/legal/government/feds-barr-us-should-prepare-serious-ai-job-disruption-widening-inequality-2026-11-12/
+
+17. Mount Thor raises $45 million to provide Apple-silicon cloud infrastructure for AI agents
+
+Mount Thor announced $45 million across seed and Series A financings to expand a managed cloud built around rack-scale Apple hardware and macOS. Its target workloads include reinforcement-learning environments for computer-use models, secure macOS sandboxes for agent testing, long-running agent sessions and inference using open-source models optimised for Apple silicon. The raise points to a specialised infrastructure niche: AI agents increasingly need access to real operating systems and application environments, not only GPU servers for model training.
+
+Source:
+https://blog.mountthor.com/a
+
+18. UFORCE raises $700 million at a $6 billion valuation to scale autonomous defence systems
+
+UFORCE, a defence-technology company founded in Ukraine and headquartered in London, announced a $700 million Series A round at a $6 billion valuation, co-led by Valor Equity Partners and the UK's National Wealth Fund. The company says it builds autonomous uncrewed platforms for sea, land and air alongside the AI software, orchestration and command-and-control layer that operates them; the financing is intended to support manufacturing, research and development and expansion for Ukraine and allied countries. The round shows how AI-enabled autonomy is attracting very large defence-tech investments, while the company's descriptions of its systems and their battlefield performance remain company claims.
+
+Sources:
+https://www.uforce.com/news/uforce-raises-700m-at-6-billion-valuation-from-leading-tech-and-sovereign-wealth-funds-to-scale-combat-proven-defence-systems-for-ukraine-and-allied-nations
+https://www.axios.com/2026/11/12/uforce-defense-ukraine-valor-equity
+
+WHAT TO WATCH
+
+- India API residency: whether OpenAI extends regional processing beyond GPT-6 Luna and whether more regulated Indian organisations move supported API workloads into production. The current offering is limited to eligible direct API use. Source: https://developers.openai.com/api/docs/guides/your-data?popup=false
+- Astrome's next milestones: technical validation, satellite architecture and a credible deployment timeline for the proposed AI-ELINT constellation; the TDB agreement is development support, not an in-orbit capability. Source: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2335322&lang=2&reg=48
+- Data-centre execution: whether ReNew's proposed 1-GW Indian facility and SpaceX's campuses clear the practical hurdles around power, permits, financing and construction, while Nebius works through third-party capacity delays. Sources: https://www.renew.com/press-release/renew-announces-inr-80-000-crore-investment-in-andhra-pradesh-across-green-data-centre-and-solar-manufacturing ; https://www.reuters.com/technology/nebius-beats-quarterly-revenue-estimates-strong-ai-demand-2026-11-12/
+- NVIDIA's succession and the accelerator race: the permanent CEO search, continuity under interim CEO Colette Kress, and independent validation of AMD's MI455X performance claims. Sources: https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition ; https://newsroom.amd.com/news/amd-advances-instinct-mi400-series-ai-scientific-computing/
+- Agent deployment and AI governance: whether SGLang's new consortium produces measurable cross-hardware inference improvements, and how the frontier-AI lawsuit proceeds beyond its initial filing. Sources: https://www.lmsys.org/blog/2026-11-12-sglang-consortium ; https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12/
+
+SOURCES & VERIFICATION NOTE
+
+This briefing covers developments announced or reported as occurring on 12 November 2026 in India Standard Time. The 18 items are split into five India stories and 13 global stories. Primary sources were preferred for company announcements and government programmes, with Reuters, The Wall Street Journal, TechCrunch and other reporting used where they added independent detail or context.
+
+Company-reported performance results, financial outlooks and claims about product capabilities are attributed to the relevant company. ReNew's Andhra Pradesh projects and SpaceX's campuses are announced plans; SpaceX's Arizona proposal remains subject to local approval. Cerebras' 700-MW figure is contracted capacity, not capacity already operating. AMD's MI455X comparison is based on AMD Performance Labs testing. NVIDIA's release did not state a reason for Jensen Huang's departure. Rymo's latest investment amount was not disclosed. UFORCE's product and performance descriptions are company claims. The OpenAI India residency feature is limited to eligible API projects and supported GPT-6 Luna workloads; it should not be confused with a change to consumer ChatGPT.
+
+Date filtering was applied to avoid treating an article's publication date as the date of an announcement. For example, YoLearn's Pragya model was publicly opened for testing on 11 November, so it was not counted as a 12 November launch even though coverage appeared on the 12th. Unverified claims and stories without a sufficiently clear 12 November development were left out rather than used to pad the count.
+
+END OF BRIEFING
