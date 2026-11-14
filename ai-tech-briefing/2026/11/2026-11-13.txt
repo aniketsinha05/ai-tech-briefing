@@ -1,125 +1,116 @@
-AI & TECHNOLOGY DAILY BRIEFING
+AI & TECH DAILY BRIEFING
 Coverage date: Friday, 13 November 2026 (India Standard Time)
 Prepared: Saturday, 14 November 2026
 
 EDITOR'S NOTE
-
-This edition tracks 15 developments: four from India and eleven global. The strongest themes were the physical constraints behind AI expansion—power, memory, chip supply and financing—alongside the growing operational risks of agentic systems and third-party AI infrastructure. The India section also includes a defence-autonomy office opening, a critical-minerals pilot, a pharmaceutical-screening proof of concept and a premium EV launch.
+This briefing covers developments announced, published, or occurring on 13 November 2026 in India Standard Time. It prioritises concrete product launches, policy or business announcements, infrastructure milestones, and newly disclosed incidents; where an article appeared on 13 November but the underlying event happened earlier, that distinction is stated. Financial projections, company claims, planned deployments, and early-stage pilots are attributed rather than presented as independently proven outcomes.
 
 INDIA: AI & TECH
 
-1. Shield AI opens Bengaluru engineering office for defence autonomy
-
-U.S. defence-technology company Shield AI announced on 13 November that it had opened an engineering office at GoodWorks GCC Nexus in Bengaluru. The team will develop and test its Hivemind autonomy software for Indian aircraft and defence systems, with planned hiring across autonomy, flight software, simulation, systems integration and test and evaluation; the company did not disclose a headcount target or a new procurement award.
-
+1. Shield AI opens Bengaluru engineering office for autonomy software
+Shield AI announced that it opened an engineering office at GoodWorks GCC Nexus in Bengaluru, where engineers will develop and test autonomy software for Indian aircraft and defence systems. The team will work on Hivemind, its autonomy platform, and the company plans to hire in autonomy, flight software, simulation, systems integration and testing. The office is an engineering and hiring expansion, not a new Indian procurement announcement; its significance is the local software and integration capability it could build alongside existing partnerships.
 Source: https://shield.ai/shield-opens-bengaluru-engineering-office-to-build-autonomy-in-india-for-india/
 
-2. BharatRohan reports hyperspectral-imaging proof of concept for counterfeit-medicine screening
-
-BharatRohan said it had completed controlled proof-of-concept tests in which its hyperspectral-imaging system distinguished genuine pharmaceutical tablets from adulterated or substandard samples using visible and near-infrared spectral signatures. The company described this as an internal technology milestone, not a validated product: the results have not undergone independent validation, peer review or regulatory assessment, and no formal pilot or commercial deployment has been agreed.
-
-Source: https://www.business-standard.com/amp/content/press-releases-ani/light-could-help-identify-counterfeit-medicines-bharatrohan-s-latest-technology-milestone-suggests-126111300631_1.html
-
-3. NALCO targets November commissioning for India's first gallium-recovery pilot
-
-NALCO chairman and managing director Brijendra Pratap Singh said the company's pilot gallium-recovery plant at Damanjodi, Odisha, is nearly ready and is targeted to start this month. Developed with Bhabha Atomic Research Centre and the Heavy Water Board, the facility is intended to recover gallium from industrial process streams; gallium is used in compound semiconductors and advanced electronics, but this remains a pilot plant rather than commercial-scale production.
-
+2. NALCO targets November commissioning for India's first gallium recovery pilot
+National Aluminium Company (NALCO) said its gallium-recovery pilot at Damanjodi in Odisha is nearly ready and is targeted to start this month. The project is being developed with BARC and the Heavy Water Board to recover gallium from the refinery's Bayer liquor; gallium compounds are used in semiconductors, advanced electronics and telecom equipment. This is a pilot, not a commercial-scale plant, and its recovery yield and scalability remain to be demonstrated.
 Source: https://www.business-standard.com/companies/news/nalco-to-commission-india-s-first-gallium-recovery-plant-this-month-cmd-126111301331_1.html
 
-4. BYD brings Denza luxury EV brand to India with two model launches
-
-BYD's premium Denza brand made its India debut with the Z9 GT and seven-seat D9 electric vehicles, priced from ₹1.56 crore and ₹90 lakh respectively, ex-showroom. The Z9 GT features a 122.49 kWh Blade battery and a 850 kW tri-motor system; its claimed range of up to 670 km is on the NEDC cycle and should be treated as a manufacturer figure rather than a directly comparable real-world range.
-
+3. BYD's Denza luxury EV brand debuts in India with Z9 GT and D9
+BYD's luxury brand Denza made its India debut with the Z9 GT electric performance car and D9 electric MPV, priced at ₹1.56 crore and ₹90 lakh ex-showroom respectively. The Z9 GT uses a tri-motor all-wheel-drive system rated at 850 kW and a 122.49 kWh battery; BYD claims up to 670 km range under the NEDC test cycle. The launch expands competition in the premium EV segment, but range and performance figures are manufacturer claims and NEDC figures should not be treated as real-world range.
 Source: https://auto.economictimes.indiatimes.com/news/passenger-vehicle/byds-luxury-brand-denza-enters-india-with-z9-gt-d9-prices-start-at-90-lakh/135801048
+
+4. Paytm receives in-principle RBI authorisation for prepaid payment instruments
+One97 Communications disclosed that its wholly owned subsidiary Paytm Payments Services received an RBI letter dated 13 November granting in-principle authorisation to set up and operate a prepaid payment instrument system. This is a regulatory step toward re-entering the wallet business, but it is not the final Certificate of Authorisation; the company says it can offer prepaid instruments such as wallets only after final authorisation. The distinction matters because the announcement does not mean Paytm wallets are immediately available.
+Source: https://paytm.com/document/ir/stock-exchange-submissions/fy2026-27/nov/Disclosure_Reg_30_Listing_Regulations_13_Nov_2026.pdf
+
+5. Karnataka backs Kalaburagi startup hub under the LEAP initiative
+Karnataka said it will develop Kalaburagi as a regional startup hub under its Local Ecosystem Acceleration Programme, with a Centre of Excellence for rural and agri-focused startups allocated a grant of about ₹12.5 crore. Plans also include LEAP Labs co-working spaces and an IT Park, while the Kalyana Karnataka Startup Dialogue scheduled for 14 November is intended to connect founders with investors and industry. The initiative aims to spread startup activity beyond Bengaluru, but the planned facilities and ecosystem outcomes will need to be tracked as they move from announcement to operation.
+Source: https://timesofindia.indiatimes.com/city/hubballi/kalaburagi-to-emerge-regional-startup-hub-under-leap-initiative/articleshow/135811734.cms
+
+6. Bengaluru inaugurates first operational stretch of Namma Metro's Pink Line
+The 7.5 km elevated stretch between Kalena Agrahara and Tavarekere was inaugurated on 13 November, adding six stations to Bengaluru's network; passenger services were scheduled to begin on 14 November. JICA says its development loan supports signalling and train-control systems, rolling stock and consulting services for the project. The full 21.26 km corridor, including the underground section to Nagawara, is still incomplete, so this is a phased opening rather than the entire Pink Line entering service.
+Sources:
+https://www.jica.go.jp/english/overseas/india/information/press/2026/1587234_70871.html
+https://metrorailnews.in/pm-modi-inaugurates-bengaluru-metro-pink-line-kalena-agrahara-sg-palya/
 
 GLOBAL AI & TECHNOLOGY
 
-5. Microsoft 365 outage eases after more than a day, but full recovery remains uncertain
-
-Microsoft said a broader rollout of software fixes was stabilising Outlook, Teams and related Exchange Online services after more than 24 hours of disruption, while it still had no firm timeline for complete recovery. The outage also affected Copilot and some Microsoft connectors used by OpenAI and Anthropic; Indian airlines IndiGo, Akasa Air and Air India reported email-support disruption, while Microsoft said it had no evidence of malicious activity and ruled out AI as the cause.
-
-Source: https://www.reuters.com/technology/microsoft-365-outlook-down-thousands-us-users-downdetector-shows-2026-11-12/
-
-6. Cerebras raises its 2026 outlook and discloses a new Microsoft cloud deal
-
-Cerebras lifted its 2026 adjusted-revenue forecast to $940–960 million from $880–890 million after third-quarter adjusted sales rose 70% to $230.9 million and adjusted profit reached $29.82 million. The company also disclosed a new cloud deal with Microsoft, with details expected next year; it said delivery under its large OpenAI computing agreement remains constrained by data-centre land and power availability, showing that infrastructure—not just chip production—can limit deployment.
-
+7. Microsoft restores services after a prolonged Microsoft 365 outage
+A global outage disrupted Exchange Online, Outlook, Teams, SharePoint, OneDrive and Copilot, with recovery extending through 13 November after the incident began late on 12 November IST. Microsoft said the problem was linked to an issue introduced during an earlier network-capacity upgrade that surfaced after a later network change, and said it had no indication of a cyberattack or AI-agent cause. The incident showed how a failure in shared cloud infrastructure can affect both core workplace tools and AI integrations that depend on them; Microsoft said a fuller post-incident review would follow.
 Sources:
+https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports
+https://www.techradar.com/news/live/outlook-outage-nov-2026
+
+8. Cerebras reports record Q3 revenue, raises outlook and signs Microsoft cloud deal
+Cerebras reported third-quarter GAAP revenue of $210.8 million, up 55% year over year, and said cloud and services revenue reached $141.9 million, up 265%. It raised its 2026 core revenue outlook to $940–960 million and said it had signed a cloud deal with Microsoft, while its results release also described a new top-three hyperscaler deal and 700 gross megawatts of data-centre capacity secured for delivery by the end of 2027. The capacity and revenue targets are company disclosures, and the Microsoft deal's details are due later; the announcement nonetheless shows demand for alternatives to Nvidia in high-speed inference.
+Sources:
+https://investors.cerebras.ai/node/7746/pdf
 https://www.reuters.com/technology/cerebras-shares-surge-profit-surprise-forecast-raise-ease-ai-spending-worries-2026-11-13/
-https://www.reuters.com/business/cerebras-raises-annual-sales-forecast-strong-ai-linked-demand-2026-11-12/
 
-7. SMIC says AI chip supply chain will remain tight through 2027
-
-Semiconductor Manufacturing International Corp co-CEO Zhao Haijun said demand for AI chips remains strong and that the supply chain for AI-related semiconductors is likely to stay tight through 2027. He also said some equipment orders now take more than 24 months to arrive and that memory-chip supply and demand may not balance until the middle or latter part of 2028, underscoring the long lead times behind new AI capacity.
-
+9. SMIC expects AI chip supply constraints to persist through 2027
+Semiconductor Manufacturing International Corp (SMIC) co-CEO Zhao Haijun said strong demand from data centres and private clouds is likely to keep the AI semiconductor supply chain tight through 2027. He said customers still face shortages and that some equipment orders have lead times exceeding 24 months, while memory supply and demand may not balance until mid-to-late 2028. The comments point to constraints beyond chip design itself, including manufacturing capacity and specialised equipment.
 Source: https://www.reuters.com/technology/smic-says-ai-chip-supply-chain-will-remain-tight-through-2027-2026-11-13/
 
-8. Reuters identifies a $3.2 billion pipeline of Chinese AI projects built around Nvidia chips
-
-A Reuters review of more than 150 procurement notices, investment plans, contracts and company disclosures identified Chinese AI-computing projects worth more than 23 billion yuan, or about $3.2 billion, that specify restricted Nvidia H100, H200 or H800 processors. The total includes planned projects, construction, power systems and other infrastructure—not just chip purchases—and some deliveries remain unconfirmed; the findings nevertheless show continued demand for Nvidia-based capacity inside China's project pipeline despite U.S. export controls.
-
+10. Reuters review finds more than $3 billion in Chinese AI-compute projects specifying Nvidia chips
+A Reuters review of more than 150 procurement notices, investment plans, contracts and disclosures identified Chinese AI-computing projects worth over 23 billion yuan, or about $3.2 billion, that specify Nvidia processors. The total includes planned and signed projects, completed installations and supporting infrastructure, not simply chip purchases; some projects have uncertain supply or delivery and may require redesigns using domestic processors. The review is evidence of continuing demand for Nvidia hardware in China, but it is not proof that every listed GPU has been delivered or that each project violates export controls.
 Source: https://www.reuters.com/world/china/huang-exit-us-scrutiny-imperil-3-billion-chinese-ai-projects-reliant-nvidia-2026-11-13/
 
-9. U.S. Treasury says several agencies backed restrictions on Singapore-based Megaspeed
-
-Treasury Secretary Scott Bessent said Treasury, the Pentagon, State Department and U.S. Trade Representative had supported placing Singapore-based cloud-computing firm Megaspeed on the U.S. entity list for months, while the Commerce Department held the authority to make the decision. His comments expose an interagency disagreement over suspected diversion of advanced Nvidia chips to China, but they do not amount to a formal listing or a finding of wrongdoing; Megaspeed has denied illegally diverting chips.
-
+11. US export-control dispute over Nvidia-linked Megaspeed intensifies
+US Treasury Secretary Scott Bessent said Treasury, the Pentagon, State Department and US Trade Representative had supported adding Singapore-based Megaspeed to the Commerce Department's Entity List for months, while Commerce controlled the decision. The remarks intensified scrutiny of how Washington reviews advanced-chip sales and possible diversion to China, with lawmakers pressing Commerce Secretary Howard Lutnick for explanations. No new Entity List designation was announced, and allegations around Megaspeed remain allegations rather than a public finding of wrongdoing.
 Source: https://www.reuters.com/business/retail-consumer/bessent-says-treasury-favored-limits-megaspeed-2026-11-13/
 
-10. South Korea says Nvidia will honour its 260,000-GPU commitment
-
-South Korea's Science and ICT Minister Bae Kyung-hoon said Nvidia had confirmed it would proceed with its previously announced pledge to supply 260,000 advanced GPUs to the country. The commitment was originally reached at the 2025 APEC meetings, so Friday's statement was a reaffirmation rather than a new order; Bae said joint work would continue on integrating Korean-made AI chips with Nvidia's platform, building AI-computing infrastructure and developing physical-AI research and talent.
-
+12. South Korea says Nvidia's 260,000-GPU commitment remains in place
+South Korea's Science and ICT Minister Bae Kyung-hoon said Nvidia had confirmed it would honour its previously announced pledge to supply 260,000 advanced GPUs to the country. The commitment dates to the 2025 APEC meetings, but the 13 November statement reaffirmed it and also pointed to continued work on integrating Korean AI chips with Nvidia's platform, building compute infrastructure and advancing physical-AI research and talent. The update matters for South Korea's AI-compute plans, though the original pledge is not a new order announced this week.
 Source: https://www.reuters.com/world/asia-pacific/south-korea-says-nvidia-will-keep-gpu-pledges-after-huangs-resignation-2026-11-13/
 
-11. Nscale's amended IPO filing exposes the capital burden of AI data centres
+13. Nscale's amended IPO filing shows rapid growth alongside heavy losses and debt
+Nvidia-backed AI infrastructure provider Nscale filed an amended US IPO registration statement dated 12 November US time, which reached the SEC in the early hours of 13 November IST. The filing estimated nine-month revenue of $307.5 million, compared with $21.3 million a year earlier, but also an estimated net loss of $1.69 billion and total debt of $5.52 billion as of 30 September. These are preliminary estimates in an IPO document, not audited full-year results; they underline the capital intensity and financing risk behind rapid AI data-centre expansion.
+Source: https://www.sec.gov/Archives/edgar/data/2110365/000119312526458722/ck0002110365-20261112.htm
 
-Nvidia-backed AI-cloud provider Nscale's amended U.S. IPO filing showed estimated revenue of $307.5 million for the nine months ended September 30, up from $21.3 million a year earlier, alongside an estimated net loss of $1.69 billion and estimated total debt of $5.52 billion. The company says its vertically integrated data-centre business will require additional financing to meet 2027 obligations; the figures are preliminary estimates, but they highlight the funding and execution risks behind rapid AI-infrastructure expansion.
+14. Anthropic's IPO order book reaches about six-times oversubscription
+Reuters reported that by the end of Thursday in the United States, orders for Anthropic's planned IPO were about six times the shares available, equivalent to early Friday in India. The report cited people familiar with the book and said existing backers may receive priority allocations; the offering seeks up to $64.4 billion and could imply a fully diluted valuation of about $1.4 trillion. Demand can change during the roadshow, so the reported coverage is not a final allocation or pricing result.
+Source: https://www.reuters.com/business/finance/investors-flock-anthropic-ipo-question-durability-ai-lead-2026-11-13/
 
-Sources:
-https://www.reuters.com/technology/nscale-expects-14-fold-revenue-surge-amended-ipo-filing-2026-11-12/
-https://www.sec.gov/Archives/edgar/data/2110365/000119312526458722/ck0002110365-20261112.htm
-
-12. Anthropic's planned IPO book reaches six-times oversubscription
-
-Reuters reported that orders for Anthropic's planned IPO were about six times the shares available by the end of Thursday in the United States, equivalent to early Friday in India, after roughly two-times coverage on the first roadshow day. The report cites people familiar with the process and says existing backers may receive priority allocations; demand can change during the roadshow, so the figure is not a final pricing or allocation result.
-
-Source: https://www.reuters.com/legal/transactional/anthropics-ipo-is-about-six-times-oversubscribed-bloomberg-news-reports-2026-11-12/
-
-13. LangChain raises $300 million at a $3 billion valuation
-
-LangChain announced a $300 million Series C at a $3 billion valuation, led by CapitalG with GIC and DFJ Growth participating alongside existing investors. The company said the funding will expand LangSmith's tools for running, evaluating, monitoring and governing AI agents; LangChain reports that more than 7,000 organisations use the platform, a company-supplied figure.
-
+15. LangChain raises $300 million at a $3 billion valuation
+LangChain announced a $300 million Series C led by existing investor CapitalG, with new participation from GIC and DFJ Growth and support from existing investors. The company said the funding will advance LangSmith, its platform for running, evaluating, observing and governing AI agents, and highlighted more than 7,000 organisations using the product. The round is a significant bet on the tooling layer around production agents, but adoption and customer productivity claims remain company-reported.
 Source: https://www.langchain.com/blog/series-c
 
-14. OpenAI launches ChatGPT Wallet for agent-led payments with user approval
-
-OpenAI introduced ChatGPT Wallet through Dots, initially for U.S. ChatGPT Pro subscribers aged 18 or older with eligible U.S.-issued cards, in partnership with American Express, Mastercard and Visa. Users review each purchase and approve it with a security check such as Face ID or a fingerprint; a payment token substitutes for the actual card details, so the first release is not unrestricted autonomous spending.
-
+16. OpenAI introduces ChatGPT Wallet for user-approved agent purchases
+OpenAI launched ChatGPT Wallet with American Express, Mastercard and Visa, allowing agents to make purchases using payment tokens rather than seeing a user's actual card details. Users review the items and total and approve each transaction with a security check such as Face ID or fingerprint; the initial rollout is limited to ChatGPT Pro subscribers aged 18 or older in the United States with eligible US-issued cards, through Dots. The release is an early move toward agentic commerce, but merchant compatibility, fraud controls and the boundaries of delegated purchasing will determine how useful it becomes.
 Source: https://openai.com/index/introducing-chatgpt-wallet/
 
-15. Fireworks AI identified as the provider in Uber driver-data breach
+17. Uber confirms driver-licence data exposure through Fireworks AI vendor breach
+Uber said a third-party provider notified it on 9 October that attackers had accessed internal credentials and used them to reach some Uber data; TechCrunch identified the provider as Fireworks AI on 13 November. Breach notices reviewed by TechCrunch listed stolen driver-licence information for people in Massachusetts, South Carolina and Rhode Island, with further notifications possible, while Uber did not provide a total affected count. The intrusion occurred in October, so the 13 November development is the public identification of the vendor and the scope of exposed data, not the date of the breach itself.
+Source: https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/
 
-TechCrunch identified Fireworks AI as the third-party provider involved in an October credential-theft incident that allowed attackers to access some Uber data; Uber's breach notice was dated November 10, while the provider identification and driver-data details were reported on November 13. Notices list driver's-licence information for 2,567 people in Massachusetts, 3,430 in South Carolina and 1,873 in Rhode Island, with California and Illinois counts not disclosed; Uber said it had found no misuse so far.
-
+18. EU leaders hold their first dedicated strategic discussion on artificial intelligence
+At an informal European Council meeting in Dublin on 13 November, EU leaders held their first in-depth discussion focused specifically on AI, joined by Mistral CEO Arthur Mensch and Nobel laureate Geoffrey Hinton. The agenda covered European competitiveness and AI sovereignty, infrastructure and clean energy, reducing supply-chain dependencies, adoption across business and government, and the effects of AI on rights, labour markets, safety and security. The meeting produced a strategic discussion rather than a new binding law or funding commitment, but it signals that AI capacity and governance are now central to the EU leaders' agenda.
 Sources:
-https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/
-https://www.reuters.com/business/uber-says-us-drivers-license-data-stolen-data-breach-2026-11-13/
+https://www.consilium.europa.eu/en/meetings/european-council/2026/11/13/
+https://www.consilium.europa.eu/en/press/press-releases/2026/11/13/remarks-by-president-antonio-costa-at-the-press-conference-following-the-informal-meeting-of-heads-of-state-or-government-of-13-november-2026/
 
 WHAT TO WATCH
 
-- NALCO's gallium pilot: whether commissioning happens by month-end, and what purity, recovery yield and scale-up path the first operating data supports. Source: https://www.business-standard.com/companies/news/nalco-to-commission-india-s-first-gallium-recovery-plant-this-month-cmd-126111301331_1.html
-- India's defence-autonomy pipeline: Shield AI's Bengaluru hiring, local engineering work and any separately confirmed platform-testing or procurement milestones. Source: https://shield.ai/shield-opens-bengaluru-engineering-office-to-build-autonomy-in-india-for-india/
-- AI-compute bottlenecks and export enforcement: SMIC's 2027 supply outlook, the U.S. review of Megaspeed and whether Chinese projects specifying Nvidia chips are delayed, redesigned or supplied. Sources: https://www.reuters.com/technology/smic-says-ai-chip-supply-chain-will-remain-tight-through-2027-2026-11-13/ ; https://www.reuters.com/business/retail-consumer/bessent-says-treasury-favored-limits-megaspeed-2026-11-13/
-- AI-infrastructure financing: Nscale's ability to secure capital for its 2027 commitments, and whether Cerebras can convert its Microsoft cloud deal into deployable capacity. Sources: https://www.sec.gov/Archives/edgar/data/2110365/000119312526458722/ck0002110365-20261112.htm ; https://www.reuters.com/technology/cerebras-shares-surge-profit-surprise-forecast-raise-ease-ai-spending-worries-2026-11-13/
-- Agentic commerce and vendor security: ChatGPT Wallet's merchant acceptance and user-approval safeguards, alongside Fireworks AI's remediation and the final number of Uber drivers notified. Sources: https://openai.com/index/introducing-chatgpt-wallet/ ; https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/
+- NALCO's gallium pilot: Watch whether commissioning happens by month-end and what the first operating data shows about recovery yield and scale-up potential.
+  Source: https://www.business-standard.com/companies/news/nalco-to-commission-india-s-first-gallium-recovery-plant-this-month-cmd-126111301331_1.html
+
+- Shield AI's Bengaluru expansion: Track hiring, local engineering work and any separately confirmed Indian platform-integration or testing milestones.
+  Source: https://shield.ai/shield-opens-bengaluru-engineering-office-to-build-autonomy-in-india-for-india/
+
+- AI compute supply and export controls: Watch SMIC's supply outlook, the US review of Megaspeed, and whether Chinese projects specifying Nvidia chips are delayed, redesigned or supplied.
+  Sources: https://www.reuters.com/technology/smic-says-ai-chip-supply-chain-will-remain-tight-through-2027-2026-11-13/ ; https://www.reuters.com/business/retail-consumer/bessent-says-treasury-favored-limits-megaspeed-2026-11-13/ ; https://www.reuters.com/world/china/huang-exit-us-scrutiny-imperil-3-billion-chinese-ai-projects-reliant-nvidia-2026-11-13/
+
+- AI infrastructure financing: Watch Nscale's IPO progress and funding requirements, and whether Cerebras can translate its signed hyperscaler and Microsoft deals into delivered capacity.
+  Sources: https://www.sec.gov/Archives/edgar/data/2110365/000119312526458722/ck0002110365-20261112.htm ; https://investors.cerebras.ai/node/7746/pdf
+
+- Agentic commerce: Watch the expansion of ChatGPT Wallet beyond its initial US Pro rollout, particularly merchant acceptance, payment failures and the safeguards around user approval.
+  Source: https://openai.com/index/introducing-chatgpt-wallet/
 
 SOURCES & VERIFICATION NOTE
+This edition contains 18 developments: six India stories and twelve global stories. Coverage is anchored to 13 November in India Standard Time. Cerebras' results were released after the US market close on 12 November and therefore fell in the early hours of 13 November IST; Nscale's SEC amendment was filed on 12 November US time and reached the SEC early on 13 November IST; Anthropic's reported six-times order book was measured by the end of Thursday in the United States, which was early Friday in India. The Microsoft outage began late on 12 November IST but remained active and was recovering on 13 November.
 
-This edition contains 15 developments: four India stories and eleven global stories. Dates were checked against the event or announcement time in India Standard Time rather than relying only on the date printed by a U.S. publisher. Cerebras's results were released after the U.S. market close on November 12 and therefore fell on November 13 in India; the Nscale filing and the Anthropic order-book milestone also surfaced in the early hours of November 13 IST. The Microsoft outage began late on November 12 IST but remained active and was easing on November 13.
+Several stories are deliberately framed with limits: NALCO's gallium plant is a pilot and its commissioning is a target; Paytm has only in-principle RBI authorisation; Denza's range figures are manufacturer claims measured on NEDC; the Namma Metro Pink Line was inaugurated on 13 November but passenger service was scheduled for 14 November; Nscale's financials are preliminary estimates; Anthropic's order-book multiple is based on people familiar with the process; and Bessent's remarks do not constitute a formal export-control designation. Reuters' China project total includes planned, signed and completed projects plus supporting infrastructure, not just chip spending. The Fireworks AI incident itself occurred in October; this item is included because the vendor identity and driver-licence exposure were publicly reported on 13 November. The EU meeting was a strategic discussion, not a binding regulatory decision.
 
-The Uber incident itself occurred in October and Uber's formal notice was dated November 10; it is included because the provider identity and driver-licence exposure were publicly reported on November 13, not because the intrusion began that day. BharatRohan's item is a company-provided PRNewswire release describing limited internal proof-of-concept testing; the release explicitly says independent validation, peer review and regulatory assessment have not yet occurred. NALCO's gallium facility is a pilot plant and the November commissioning date is a target. BYD's range and performance figures are manufacturer claims, with the stated Z9 GT range measured on the NEDC cycle. Nscale's nine-month financials are preliminary estimates in its IPO filing. Anthropic's oversubscription figure is based on people familiar with the book and may change. Bessent's comments do not constitute a formal export-control designation, and the Chinese project total includes buildings and supporting infrastructure rather than chip spending alone.
-
-Several stories were deliberately excluded despite appearing in November 13 Indian coverage: Google's Gemini 4 Hydrogen announcement was dated November 12 IST; ReNew's green-data-centre announcement and Mars's Hyderabad GCC opening occurred on November 12; the Saicon ForgeAI release was dated November 11; and India's e-waste audit order dates to July rather than November 13. The Federal Reserve's November Financial Stability Report appeared after midnight IST on November 14, so it belongs in the next coverage window. These exclusions keep the edition tied to the requested date rather than padding it with republished or earlier developments.
+Items excluded after date and quality checks included the e-waste audit order, which was issued in July; Razorpay's SEBI observations, which were issued earlier in November; Saicon's ForgeAI announcement, which pre-dated 13 November; the Fed Financial Stability Report, which appeared after midnight IST on 14 November; and the Starship Flight 15 launch, which also occurred after midnight IST on 14 November. A company-provided BharatRohan hyperspectral-imaging proof of concept was not counted because it remains limited internal testing without independent validation or regulatory assessment. These exclusions were made to avoid treating later coverage of older events, unverified claims or next-day developments as 13 November announcements.
 
 END OF BRIEFING
